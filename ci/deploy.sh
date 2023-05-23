@@ -11,11 +11,12 @@ set -o errexit \
 REPO_SLUG=${GITHUB_REPOSITORY}
 COMMIT=${GITHUB_SHA}
 BRANCH=${DEFAULT_BRANCH:-main}
+FECHA_COMPILACION=${COMPILATION_DATE}
 
 # Add commit hash to the README
 OWNER_NAME="$(dirname "$REPO_SLUG")"
 REPO_NAME="$(basename "$REPO_SLUG")"
-export REPO_SLUG COMMIT OWNER_NAME REPO_NAME
+export REPO_SLUG COMMIT OWNER_NAME REPO_NAME FECHA_COMPILACION
 envsubst < webpage/README.md > webpage/README-complete.md
 mv webpage/README-complete.md webpage/README.md
 
@@ -56,12 +57,14 @@ git remote set-branches --add origin gh-pages output
 git fetch origin gh-pages:gh-pages output:output || \
   echo >&2 "[INFO] could not fetch gh-pages or output from origin."
 
+
 # Configure versioned webpage and timestamp
-manubot webpage \
-  --timestamp \
-  --no-ots-cache \
-  --checkout=gh-pages \
-  --version="$COMMIT"
+ manubot webpage \
+   --timestamp \
+   --no-ots-cache \
+   --checkout=gh-pages \
+   --version="$COMMIT"
+
 
 # Commit message
 MESSAGE="\
