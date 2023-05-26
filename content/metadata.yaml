@@ -15,3 +15,21 @@ authors:
     corresponding: e_hwong@stefanini.com
     affiliations:
       - Arquitecto SOA, Stefanini
+  - github: wmorales
+      name: Wilson Morales, ing.
+      initials: WIM
+      email: wmorales@stefanini.com
+      affiliations:
+      - Software, Aplicaciones
+  - github: fhernandez
+    name: Flavio Hernandez, ing.
+    initials: FHE
+    email: fhernandezg@stefanini.com
+    affiliations:
+      - SOA, Arquitectura
+  - github: vmmartinez
+    name: Viviana M. Martinez, ing.
+    initials: VMA
+    email: vmmartinez@stefanini.com
+    affiliations:
+      - Analista, Proyectos
