@@ -9,6 +9,9 @@ lang: en-US
 date-meta: '2023-05-26'
 author-meta:
 - Harry Wong, ing.
+- Wilson Morales, ing.
+- Flavio Hernandez, ing.
+- Viviana M. Martinez, ing.
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-26" />
   <meta name="citation_publication_date" content="2023-05-26" />
   <meta property="article:published_time" content="2023-05-26" />
-  <meta name="dc.modified" content="2023-05-26T19:13:19+00:00" />
-  <meta property="article:modified_time" content="2023-05-26T19:13:19+00:00" />
+  <meta name="dc.modified" content="2023-05-26T19:40:49+00:00" />
+  <meta property="article:modified_time" content="2023-05-26T19:40:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -33,15 +36,21 @@ header-includes: |
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="Harry Wong, ing." />
   <meta name="citation_author_institution" content="Arquitecto SOA, Stefanini" />
+  <meta name="citation_author" content="Wilson Morales, ing." />
+  <meta name="citation_author_institution" content="Software, Aplicaciones" />
+  <meta name="citation_author" content="Flavio Hernandez, ing." />
+  <meta name="citation_author_institution" content="SOA, Arquitectura" />
+  <meta name="citation_author" content="Viviana M. Martinez, ing." />
+  <meta name="citation_author_institution" content="Analista, Proyectos" />
   <link rel="canonical" href="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta property="og:url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta property="twitter:url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/ef7efce02ead9f83637b514b7a1aacdc9930ab2f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/ef7efce02ead9f83637b514b7a1aacdc9930ab2f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/ef7efce02ead9f83637b514b7a1aacdc9930ab2f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/5e9283e4a704ee4a674d958a6ff757c5e39f132b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/5e9283e4a704ee4a674d958a6ff757c5e39f132b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/5e9283e4a704ee4a674d958a6ff757c5e39f132b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/ef7efce02ead9f83637b514b7a1aacdc9930ab2f/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/5e9283e4a704ee4a674d958a6ff757c5e39f132b/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@ef7efce](https://github.com/hwong23/fna-dd-f2-pry1/tree/ef7efce02ead9f83637b514b7a1aacdc9930ab2f)
+[hwong23/fna-dd-f2-pry1@5e9283e](https://github.com/hwong23/fna-dd-f2-pry1/tree/5e9283e4a704ee4a674d958a6ff757c5e39f132b)
 del May 26, 2023.
 </em></small>
 
@@ -82,6 +91,33 @@ del May 26, 2023.
     <br>
   <small>
      Arquitecto SOA, Stefanini
+  </small>
+
++ **Wilson Morales, ing.**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [wmorales](https://github.com/wmorales)
+    <br>
+  <small>
+     Software, Aplicaciones
+  </small>
+
++ **Flavio Hernandez, ing.**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [fhernandez](https://github.com/fhernandez)
+    <br>
+  <small>
+     SOA, Arquitectura
+  </small>
+
++ **Viviana M. Martinez, ing.**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [vmmartinez](https://github.com/vmmartinez)
+    <br>
+  <small>
+     Analista, Proyectos
   </small>
 
 
@@ -105,10 +141,7 @@ Lista de las partes de la arquitectura actual del FNA relacionados con el proyec
 <br>
 
 ## Justificación
-Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01, Gobierno SOA, tal que garantice la continuidad de este.
-
-paquetes de trabajo que garanticen (continuidad, orden e impacto) la realización de los cambios entre evoluciones de la arquitectura SOA del Fondo. Por último, el portafolio proporciona datos de entrada para los procesos de contratación y adjudicación futuros que el FNA considere para la implementación de los cambios.
-
+Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01, Gobierno SOA, tal que garantice su continuidad y ejecución.
 
 ## Contenidos
 1. Vista de segmento de la empresa, campo de acción del proyecto
@@ -132,7 +165,7 @@ paquetes de trabajo que garanticen (continuidad, orden e impacto) la realizació
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|ef7efce del 26 May 2023                              |
+|Versión|5e9283e del 26 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -147,6 +180,34 @@ graph TD;
     C-->D;
 ```
 
+
+
+# E-Service. Fase II. PRY01 Gobierno SOA
+# Contenido de los Productos Contractuales, (#contrato 181-2020)
+
+# Producto 1: PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
+Lista de los paquetes de trabajo, personas, roles y herramientas a desplegar en la oficina de arquitectura del FNA por concepto de la instauración del gobierno.
+
+**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY02, Detalle de los recursos, herramientas, roles y participantes: (...).
+
+<br>
+
+## Justificación
+Desplegar las mejoras en los flujos críticos por cargo de la oficina de arquitectura del FNA.
+
+## Contenidos
+1. 
+1.
+1.
+
+<br>
+
+## Criterios de Aceptación
+
+* Lista de cambios para el segmento FNA: ítems incluídos, por mejorar, nuevos y eliminados
+* Hoja de ruta preliminar hacia un objetivo de mejora
+
+*** 
 
 
 ## CCF
@@ -188,7 +249,7 @@ _Guía: qué es necesario realizar al flujo para que asegurar que el cliente obj
 |--------|----------------------------------------------------------------------------------------|---------------|
 | Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |               |
 |        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |               |
-| Fase 1 | PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes  |               |
+| Fase 1 | PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA    |               |
 |        | PR03. Diseño de los procesos y responsabilidades del comité de gobierno                |               |
 | Fase 2 | PR04. Definición de roles y responsabilidades y selección e instalación del comité     |               |
 |        | PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos              |               |
