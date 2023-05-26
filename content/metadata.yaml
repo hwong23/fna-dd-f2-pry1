@@ -16,10 +16,10 @@ authors:
     affiliations:
       - Arquitecto SOA, Stefanini
   - github: wmorales
-      name: Wilson Morales, ing.
-      initials: WIM
-      email: wmorales@stefanini.com
-      affiliations:
+    name: Wilson Morales, ing.
+    initials: WIM
+    email: wmorales@stefanini.com
+    affiliations:
       - Software, Aplicaciones
   - github: fhernandez
     name: Flavio Hernandez, ing.
