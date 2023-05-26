@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# PRY01. Gobierno SOA del FNA      
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
