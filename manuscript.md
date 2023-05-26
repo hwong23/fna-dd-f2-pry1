@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-05-25'
+date-meta: '2023-05-26'
 author-meta:
 - Harry Wong, ing.
 header-includes: |
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-05-25" />
-  <meta name="citation_publication_date" content="2023-05-25" />
-  <meta property="article:published_time" content="2023-05-25" />
-  <meta name="dc.modified" content="2023-05-25T16:49:18+00:00" />
-  <meta property="article:modified_time" content="2023-05-25T16:49:18+00:00" />
+  <meta name="dc.date" content="2023-05-26" />
+  <meta name="citation_publication_date" content="2023-05-26" />
+  <meta property="article:published_time" content="2023-05-26" />
+  <meta name="dc.modified" content="2023-05-26T19:13:19+00:00" />
+  <meta property="article:modified_time" content="2023-05-26T19:13:19+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/8822d33172579007e42535caafc29440ba581516/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8822d33172579007e42535caafc29440ba581516/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8822d33172579007e42535caafc29440ba581516/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/ef7efce02ead9f83637b514b7a1aacdc9930ab2f/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/ef7efce02ead9f83637b514b7a1aacdc9930ab2f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/ef7efce02ead9f83637b514b7a1aacdc9930ab2f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/8822d33172579007e42535caafc29440ba581516/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/ef7efce02ead9f83637b514b7a1aacdc9930ab2f/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@8822d33](https://github.com/hwong23/fna-dd-f2-pry1/tree/8822d33172579007e42535caafc29440ba581516)
-del May 25, 2023.
+[hwong23/fna-dd-f2-pry1@ef7efce](https://github.com/hwong23/fna-dd-f2-pry1/tree/ef7efce02ead9f83637b514b7a1aacdc9930ab2f)
+del May 26, 2023.
 </em></small>
 
 
@@ -94,6 +94,37 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 :::
 
 
+# E-Service. Fase II. PRY01 Gobierno SOA
+# Contenido de los Productos Contractuales, (#contrato 181-2020)
+
+# Producto 1: PR01. Detalle de los ítems de arquitectura impactados por el proyecto 
+Lista de las partes de la arquitectura actual del FNA relacionados con el proyecto.
+
+**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: (...).
+
+<br>
+
+## Justificación
+Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01, Gobierno SOA, tal que garantice la continuidad de este.
+
+paquetes de trabajo que garanticen (continuidad, orden e impacto) la realización de los cambios entre evoluciones de la arquitectura SOA del Fondo. Por último, el portafolio proporciona datos de entrada para los procesos de contratación y adjudicación futuros que el FNA considere para la implementación de los cambios.
+
+
+## Contenidos
+1. Vista de segmento de la empresa, campo de acción del proyecto
+1. Justificación del segmento de la empresa susceptibles de gobierno
+1. Flujos críticos de trabajo relacionados con resultados de E-Service, Fase I
+
+<br>
+
+## Criterios de Aceptación
+
+* Lista de cambios para el segmento FNA: ítems incluídos, por mejorar, nuevos y eliminados
+* Hoja de ruta preliminar hacia un objetivo de mejora
+
+*** 
+
+
 ## Resumen y control de cambios {.page_break_before}
 
 |Tema            |Portafolio de iniciativas y brechas: **Hoja de ruta de los proyectos de cierre de brecha E-Service**|
@@ -101,7 +132,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|8822d33 del 25 May 2023                              |
+|Versión|ef7efce del 26 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -150,6 +181,58 @@ _Guía: cómo se da por entregado el resultado del trabajo al cliente objetivo q
 
 ### Repetición
 _Guía: qué es necesario realizar al flujo para que asegurar que el cliente objetivo quiera ejecutarlo nuevamente._
+
+
+## Lista de Fases y Entregables de la Propuesta
+|        | PRY01. Gobierno SOA                                                                    | Documentación |
+|--------|----------------------------------------------------------------------------------------|---------------|
+| Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |               |
+|        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |               |
+| Fase 1 | PR02. Detalle de los recursos, herramientas, roles, responsabilidades y participantes  |               |
+|        | PR03. Diseño de los procesos y responsabilidades del comité de gobierno                |               |
+| Fase 2 | PR04. Definición de roles y responsabilidades y selección e instalación del comité     |               |
+|        | PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos              |               |
+| Fase 3 | PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto     |               |
+| Fase 4 | PR07. Métricas de efectividad del gobierno                                             |               |
+| A      | Generar lineamientos y políticas de gobierno SOA                                       |               |
+|        | Aplicar y fortalecer gobierno SOA en el FNA                                            |               |
+|        | Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA |               |
+
+<br>
+
+|        | PRY02. Arquitectura Referencia 2.0                                                             | Documentación |
+|--------|------------------------------------------------------------------------------------------------|---------------|
+| Fase 0 | PR10. Detalle de los ítems de arquitectura impactados por el proyecto                          |               |
+|        | PR010.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                             |               |
+| Fase 1 | PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes          |               |
+|        | PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología  ​ |               |
+| Fase 2 | PR13. Modelado en lenguaje y herramienta de diseño del FNA​                                     |               |
+|        | PR14. Administración de las transiciones hacia la arquitectura versión 2.0                     |               |
+| Fase 3 | PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación          |               |
+| Fase 4 | PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura                  |               |
+|        | PR17. Ítems de arquitectura incrementados en ejecución                                         |               |
+| A      | Acelerar el desarrollo de las arquitecturas de solución​                                        |               |
+|        | Relacionar las implementaciones con las áreas de negocio y TI​                                  |               |
+|        | Demostrar el cumplimiento de los lineamientos y políticas de gobierno​ SOA/TI del Fondo         |               |
+|        | Documentación técnica en el depósito de arquitectura institucional​                             |               |
+
+<br>
+
+|        | PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service                                 | Documentación |
+|--------|-------------------------------------------------------------------------------------------------------------|---------------|
+| Fase 0 | PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar         |               |
+|        | PR20.1. Aprobación de inicio de los proyectos de la hoja de ruta E-Service                                  |               |
+| Fase 1 | PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service                                         |               |
+|        | PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service      |               |
+|        | PR24. Arquitectura de solución de los proyectos de cierre de brecha                                         |               |
+| Fase 2 | PR25. Ficha de proyectos hoja de ruta E-Service. Incremento 1                                               |               |
+| Fase 3 | PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2                                               |               |
+| A      | Definición de solución de los proyectos de la hoja de ruta E-Service por implementar                        |               |
+|        | Planificación de las actividades e hitos de los proyectos de la hoja de ruta E-Service                      |               |
+|        | Alistamiento de ejecución de los proyectos de la hoja de ruta por implementar: recursos y equipo de trabajo |               |
+|        | Aprobación de inicio de los proyectos de la hoja de ruta                                                    |               |
+
+<br>
 
 
 ## Referencias {.page_break_before}
