@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-29" />
   <meta name="citation_publication_date" content="2023-05-29" />
   <meta property="article:published_time" content="2023-05-29" />
-  <meta name="dc.modified" content="2023-05-29T17:33:45+00:00" />
-  <meta property="article:modified_time" content="2023-05-29T17:33:45+00:00" />
+  <meta name="dc.modified" content="2023-05-29T17:40:44+00:00" />
+  <meta property="article:modified_time" content="2023-05-29T17:40:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/a944a14091bc88aff7a101942b6106e4d386a5b5/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a944a14091bc88aff7a101942b6106e4d386a5b5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a944a14091bc88aff7a101942b6106e4d386a5b5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/8b23dd3cc932089511e6c6c3e3458ddf4004b507/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8b23dd3cc932089511e6c6c3e3458ddf4004b507/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8b23dd3cc932089511e6c6c3e3458ddf4004b507/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/a944a14091bc88aff7a101942b6106e4d386a5b5/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/8b23dd3cc932089511e6c6c3e3458ddf4004b507/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@a944a14](https://github.com/hwong23/fna-dd-f2-pry1/tree/a944a14091bc88aff7a101942b6106e4d386a5b5)
+[hwong23/fna-dd-f2-pry1@8b23dd3](https://github.com/hwong23/fna-dd-f2-pry1/tree/8b23dd3cc932089511e6c6c3e3458ddf4004b507)
 del May 29, 2023.
 </em></small>
 
@@ -131,12 +131,12 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 
 % E-Service. Fase II. PRY01 Gobierno SOA
+
 % Contenido de los Productos Contractuales, (#contrato 181-2020)
 
 <br>
 
-|   Version a944a14 
-|   del 29 May 2023
+|   Version 8b23dd3 del 29 May 2023
 
 <br>
 
@@ -148,7 +148,7 @@ Lista de las partes de la arquitectura actual del FNA relacionados con el proyec
 <br>
 
 ## Justificación
-Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01, Gobierno SOA, tal que garantice su continuidad y ejecución.
+Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01, Gobierno SOA, en su  Etapa 0, tal que garantice su continuidad y ejecución.
 
 ## Contenidos
 1. Vista de segmento de la empresa, campo de acción del proyecto
@@ -159,8 +159,8 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 
 ## Criterios de Aceptación
 
-* Lista de cambios para el segmento FNA: ítems incluídos, por mejorar, nuevos y eliminados
-* Hoja de ruta preliminar hacia un objetivo de mejora
+* Lista de los ítems de los flujos críticos de trabajo sujetos al gobierno SOA
+* Vista de segmento de la empresa del proyecto 1 (PRY01), Gobierno SOA
 
 *** 
 
@@ -172,7 +172,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|a944a14 del 29 May 2023                              |
+|Versión|8b23dd3 del 29 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
