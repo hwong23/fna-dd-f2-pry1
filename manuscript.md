@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-30" />
   <meta name="citation_publication_date" content="2023-05-30" />
   <meta property="article:published_time" content="2023-05-30" />
-  <meta name="dc.modified" content="2023-05-30T15:19:08+00:00" />
-  <meta property="article:modified_time" content="2023-05-30T15:19:08+00:00" />
+  <meta name="dc.modified" content="2023-05-30T15:31:16+00:00" />
+  <meta property="article:modified_time" content="2023-05-30T15:31:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/1e22507418a671033fcfb10356fd0d3b0931e337/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/1e22507418a671033fcfb10356fd0d3b0931e337/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/1e22507418a671033fcfb10356fd0d3b0931e337/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/1e22507418a671033fcfb10356fd0d3b0931e337/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@ead9b29](https://github.com/hwong23/fna-dd-f2-pry1/tree/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358)
+[hwong23/fna-dd-f2-pry1@1e22507](https://github.com/hwong23/fna-dd-f2-pry1/tree/1e22507418a671033fcfb10356fd0d3b0931e337)
 del May 30, 2023.
 </em></small>
 
@@ -130,13 +130,14 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 :::
 
 
-% E-Service. Fase II. PRY01 Gobierno SOA
-
-% Contenido de los Productos Contractuales, (#contrato 181-2020)
+% E-Service. Fase II. 
+% PRY01 Gobierno SOA
+% Contenido de los Productos Contractuales
+% Contrato 1812020
 
 <br>
 
-> Version ead9b29 del 30 May 2023
+> Version 1e22507 del 30 May 2023
 
 <br>
 
@@ -172,7 +173,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|ead9b29 del 30 May 2023                              |
+|Versión|1e22507 del 30 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -193,9 +194,9 @@ graph TD;
 # Contenido de los Productos Contractuales, (#contrato 181-2020)
 
 # Producto 1: PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
-Lista de los paquetes de trabajo, personas, roles y herramientas a desplegar en la oficina de arquitectura del FNA por concepto de la instauración del gobierno.
+Políticas y procedimiento, paquetes de trabajo, identificación de personas, roles y herramientas a desplegar a cargo de la oficina de arquitectura del FNA por concepto de la instauración del gobierno.
 
-**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY02, Detalle de los recursos, herramientas, roles y participantes: (...).
+**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
 
 <br>
 
@@ -203,9 +204,9 @@ Lista de los paquetes de trabajo, personas, roles y herramientas a desplegar en 
 Desplegar las mejoras en los flujos críticos por cargo de la oficina de arquitectura del FNA.
 
 ## Contenidos
+1. Modelo de gobierno SOA del FNA: actores, información y procedimientos
+1. Referencia documental del Gobierno SOA del FNA
 1. 
-1.
-1.
 
 <br>
 
@@ -215,6 +216,10 @@ Desplegar las mejoras en los flujos críticos por cargo de la oficina de arquite
 * Hoja de ruta preliminar hacia un objetivo de mejora
 
 *** 
+
+
+02a.elementos gobierno
+
 
 
 ## CCF
