@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-30" />
   <meta name="citation_publication_date" content="2023-05-30" />
   <meta property="article:published_time" content="2023-05-30" />
-  <meta name="dc.modified" content="2023-05-30T15:40:35+00:00" />
-  <meta property="article:modified_time" content="2023-05-30T15:40:35+00:00" />
+  <meta name="dc.modified" content="2023-05-30T15:45:18+00:00" />
+  <meta property="article:modified_time" content="2023-05-30T15:45:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/0255af65960237455969f041753db897efe3a37e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0255af65960237455969f041753db897efe3a37e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0255af65960237455969f041753db897efe3a37e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/07a6f6de44d32abe0e5f9aa66427055e14aef687/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/07a6f6de44d32abe0e5f9aa66427055e14aef687/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/07a6f6de44d32abe0e5f9aa66427055e14aef687/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/0255af65960237455969f041753db897efe3a37e/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/07a6f6de44d32abe0e5f9aa66427055e14aef687/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@0255af6](https://github.com/hwong23/fna-dd-f2-pry1/tree/0255af65960237455969f041753db897efe3a37e)
+[hwong23/fna-dd-f2-pry1@07a6f6d](https://github.com/hwong23/fna-dd-f2-pry1/tree/07a6f6de44d32abe0e5f9aa66427055e14aef687)
 del May 30, 2023.
 </em></small>
 
@@ -134,7 +134,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 % Stefanini
 % Mayo, 2023
 
-Version 0255af6 del 30 May 2023
+Version 07a6f6d del 30 May 2023
 
 <br>
 
@@ -170,7 +170,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|0255af6 del 30 May 2023                              |
+|Versión|07a6f6d del 30 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -219,7 +219,8 @@ Desplegar las mejoras en los flujos críticos por cargo de la oficina de arquite
 El gobierno SOA del FNA, objeto de este proyecto, tiene impacto sobre partes e ítems seleccionadas de la arquitectura de software y de servicios del FNA, respectivamente (ver vista de contextual, segmento de la empresa). El impacto de este gobierno se extiende a actores principales, interesados, usuarios y entidades relacionados con aquellas partes de la arquitectura del FNA.
 
 ## Objetivo del Gobierno SOA del FNA
-El Ministerio de Trabajo (Mintrabajo), ha establecido un Plan de Continuidad de Servicio que le permite identificar las amenazas y riesgos que pueden impactar la operación normal de la aplicación (SIG) Sistema de Información Gerencial; tarea base para la generación de planes enfocados a la recuperación y puesta marcha, después de la materialización de alguno de los riesgos contemplados.
+El FNN ha establecido como pilar tecnológico el Gobierno SOA tal que permita la continuidad de servicio, identificar las amenazas y riesgos que pueden impactar el desarrollo y la gestión de las arquitecturas de software del Fondo; tarea base para la generación de planes enfocados a la alienación y puesta marcha de futuras soluciones y mejoras de las actuales.
+
 
 
 
