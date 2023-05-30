@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-30" />
   <meta name="citation_publication_date" content="2023-05-30" />
   <meta property="article:published_time" content="2023-05-30" />
-  <meta name="dc.modified" content="2023-05-30T15:33:24+00:00" />
-  <meta property="article:modified_time" content="2023-05-30T15:33:24+00:00" />
+  <meta name="dc.modified" content="2023-05-30T15:40:35+00:00" />
+  <meta property="article:modified_time" content="2023-05-30T15:40:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/0255af65960237455969f041753db897efe3a37e/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0255af65960237455969f041753db897efe3a37e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0255af65960237455969f041753db897efe3a37e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/0255af65960237455969f041753db897efe3a37e/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@f7cb862](https://github.com/hwong23/fna-dd-f2-pry1/tree/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0)
+[hwong23/fna-dd-f2-pry1@0255af6](https://github.com/hwong23/fna-dd-f2-pry1/tree/0255af65960237455969f041753db897efe3a37e)
 del May 30, 2023.
 </em></small>
 
@@ -130,14 +130,11 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 :::
 
 
-% E-Service. Fase II. 
-% PRY01 Gobierno SOA
-% Contenido de los Productos Contractuales
-% Contrato 1812020
+% E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
+% Stefanini
+% Mayo, 2023
 
-<br>
-
-> Version f7cb862 del 30 May 2023
+Version 0255af6 del 30 May 2023
 
 <br>
 
@@ -173,7 +170,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|f7cb862 del 30 May 2023                              |
+|Versión|0255af6 del 30 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
