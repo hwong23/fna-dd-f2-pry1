@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-05-29'
+date-meta: '2023-05-30'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-05-29" />
-  <meta name="citation_publication_date" content="2023-05-29" />
-  <meta property="article:published_time" content="2023-05-29" />
-  <meta name="dc.modified" content="2023-05-29T17:40:44+00:00" />
-  <meta property="article:modified_time" content="2023-05-29T17:40:44+00:00" />
+  <meta name="dc.date" content="2023-05-30" />
+  <meta name="citation_publication_date" content="2023-05-30" />
+  <meta property="article:published_time" content="2023-05-30" />
+  <meta name="dc.modified" content="2023-05-30T15:19:08+00:00" />
+  <meta property="article:modified_time" content="2023-05-30T15:19:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/8b23dd3cc932089511e6c6c3e3458ddf4004b507/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8b23dd3cc932089511e6c6c3e3458ddf4004b507/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8b23dd3cc932089511e6c6c3e3458ddf4004b507/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,10 +72,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/8b23dd3cc932089511e6c6c3e3458ddf4004b507/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@8b23dd3](https://github.com/hwong23/fna-dd-f2-pry1/tree/8b23dd3cc932089511e6c6c3e3458ddf4004b507)
-del May 29, 2023.
+[hwong23/fna-dd-f2-pry1@ead9b29](https://github.com/hwong23/fna-dd-f2-pry1/tree/ead9b29df2768e58c98dcb9b6ce5e407ae9a9358)
+del May 30, 2023.
 </em></small>
 
 
@@ -136,7 +136,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 <br>
 
-|   Version 8b23dd3 del 29 May 2023
+> Version ead9b29 del 30 May 2023
 
 <br>
 
@@ -172,7 +172,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|8b23dd3 del 29 May 2023                              |
+|Versión|ead9b29 del 30 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
