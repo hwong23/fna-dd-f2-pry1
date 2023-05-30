@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-30" />
   <meta name="citation_publication_date" content="2023-05-30" />
   <meta property="article:published_time" content="2023-05-30" />
-  <meta name="dc.modified" content="2023-05-30T17:17:46+00:00" />
-  <meta property="article:modified_time" content="2023-05-30T17:17:46+00:00" />
+  <meta name="dc.modified" content="2023-05-30T17:18:38+00:00" />
+  <meta property="article:modified_time" content="2023-05-30T17:18:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/8fbfa5aee5b71916ef7160a133b02408bba0c1a9/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8fbfa5aee5b71916ef7160a133b02408bba0c1a9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8fbfa5aee5b71916ef7160a133b02408bba0c1a9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/d777613ab7406060507cdebf31e1157d593a2cd5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/d777613ab7406060507cdebf31e1157d593a2cd5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/d777613ab7406060507cdebf31e1157d593a2cd5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/8fbfa5aee5b71916ef7160a133b02408bba0c1a9/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/d777613ab7406060507cdebf31e1157d593a2cd5/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@8fbfa5a](https://github.com/hwong23/fna-dd-f2-pry1/tree/8fbfa5aee5b71916ef7160a133b02408bba0c1a9)
+[hwong23/fna-dd-f2-pry1@d777613](https://github.com/hwong23/fna-dd-f2-pry1/tree/d777613ab7406060507cdebf31e1157d593a2cd5)
 del May 30, 2023.
 </em></small>
 
@@ -132,7 +132,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % Stefanini
-% Version 8fbfa5a del 30 May 2023
+% Version d777613 del 30 May 2023
 
 <br>
 
@@ -168,7 +168,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|8fbfa5a del 30 May 2023                              |
+|Versión|d777613 del 30 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -183,6 +183,9 @@ graph TD;
     C-->D;
 ```
 
+
+
+FLAVIO
 
 
 ## Justificación de los ítems de arquitectura impactados por el proyecto
@@ -311,6 +314,27 @@ El gobierno SOA del FNA, objeto de este proyecto, tiene impacto sobre partes e �
 El FNN ha establecido como pilar tecnológico el Gobierno SOA tal que permita la continuidad de servicio, identificar las amenazas y riesgos que pueden impactar el desarrollo y la gestión de las arquitecturas de software del Fondo; tarea base para la generación de planes enfocados a la alienación y puesta marcha de futuras soluciones y mejoras de las actuales.
 
 
+## Análisis de Impacto en las arquitecturas (AIA) del FNA
+El análisis de impacto en el negocio BIA (Business Impact Analisys) permite la evaluación de cada componente, para determinar cuáles de ellos son críticos para la continuidad del servicio y es la base para la creación del Plan de Continuidad. 
+
+Todas las etapas asociadas a este análisis se han documentado en la Matriz de Análisis BIA. A continuación, los resultados claves para el plan de continuidad del servicio.
+
+Los pasos para el análisis BIA son: 
+ 
+Identificación de los componentes (CCF).
+Identificación del calendario crítico para la operación de cada componente (picos de operación y épocas en las que su funcionamiento es indispensable).
+Identificación de las dependencias e interacciones críticas para cada componente.
+Análisis del impacto Financiero, Reputacional, Legal o al Usuario de la ausencia del componente en la línea de tiempo.
+Tiempo Objetivo de Recuperación (RTO) para cada componente.
+Identificación de los recursos mínimos para operar en contingencia.
+Determinación del Punto Objetivo de Recuperación (RPO)
+ 
+### Flujos Críticos de Trabajo
+
+### Gestión del Riesgo Técnico
+
+### Definición de Estrategias de Contingencia
+Las estrategias de contingencia se establecen para cada riesgo crítico analizado, contemplando para ello las redundancias existentes y los requisitos de seguridad que deben mantenerse en observación durante la materialización del riesgo y la recuperación a la normalidad.
 
 
 ## CCF
