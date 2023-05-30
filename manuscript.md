@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-30" />
   <meta name="citation_publication_date" content="2023-05-30" />
   <meta property="article:published_time" content="2023-05-30" />
-  <meta name="dc.modified" content="2023-05-30T15:31:16+00:00" />
-  <meta property="article:modified_time" content="2023-05-30T15:31:16+00:00" />
+  <meta name="dc.modified" content="2023-05-30T15:33:24+00:00" />
+  <meta property="article:modified_time" content="2023-05-30T15:33:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/1e22507418a671033fcfb10356fd0d3b0931e337/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/1e22507418a671033fcfb10356fd0d3b0931e337/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/1e22507418a671033fcfb10356fd0d3b0931e337/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/1e22507418a671033fcfb10356fd0d3b0931e337/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@1e22507](https://github.com/hwong23/fna-dd-f2-pry1/tree/1e22507418a671033fcfb10356fd0d3b0931e337)
+[hwong23/fna-dd-f2-pry1@f7cb862](https://github.com/hwong23/fna-dd-f2-pry1/tree/f7cb8624b00f1e2c74953938a39d8a3434c7c6c0)
 del May 30, 2023.
 </em></small>
 
@@ -137,7 +137,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 <br>
 
-> Version 1e22507 del 30 May 2023
+> Version f7cb862 del 30 May 2023
 
 <br>
 
@@ -173,7 +173,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|1e22507 del 30 May 2023                              |
+|Versión|f7cb862 del 30 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -218,7 +218,11 @@ Desplegar las mejoras en los flujos críticos por cargo de la oficina de arquite
 *** 
 
 
-02a.elementos gobierno
+# Elementos de Gobierno
+El gobierno SOA del FNA, objeto de este proyecto, tiene impacto sobre partes e ítems seleccionadas de la arquitectura de software y de servicios del FNA, respectivamente (ver vista de contextual, segmento de la empresa). El impacto de este gobierno se extiende a actores principales, interesados, usuarios y entidades relacionados con aquellas partes de la arquitectura del FNA.
+
+## Objetivo del Gobierno SOA del FNA
+El Ministerio de Trabajo (Mintrabajo), ha establecido un Plan de Continuidad de Servicio que le permite identificar las amenazas y riesgos que pueden impactar la operación normal de la aplicación (SIG) Sistema de Información Gerencial; tarea base para la generación de planes enfocados a la recuperación y puesta marcha, después de la materialización de alguno de los riesgos contemplados.
 
 
 
