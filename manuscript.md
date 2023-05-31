@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-31" />
   <meta name="citation_publication_date" content="2023-05-31" />
   <meta property="article:published_time" content="2023-05-31" />
-  <meta name="dc.modified" content="2023-05-31T18:38:26+00:00" />
-  <meta property="article:modified_time" content="2023-05-31T18:38:26+00:00" />
+  <meta name="dc.modified" content="2023-05-31T20:03:30+00:00" />
+  <meta property="article:modified_time" content="2023-05-31T20:03:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/8a78a78f64ef6f092f4eae4fc344db215b94fadb/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8a78a78f64ef6f092f4eae4fc344db215b94fadb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8a78a78f64ef6f092f4eae4fc344db215b94fadb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/a782971acbadb114518759726e1623fba6e64bc4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a782971acbadb114518759726e1623fba6e64bc4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a782971acbadb114518759726e1623fba6e64bc4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/8a78a78f64ef6f092f4eae4fc344db215b94fadb/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/a782971acbadb114518759726e1623fba6e64bc4/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@8a78a78](https://github.com/hwong23/fna-dd-f2-pry1/tree/8a78a78f64ef6f092f4eae4fc344db215b94fadb)
+[hwong23/fna-dd-f2-pry1@a782971](https://github.com/hwong23/fna-dd-f2-pry1/tree/a782971acbadb114518759726e1623fba6e64bc4)
 del May 31, 2023.
 </em></small>
 
@@ -137,7 +137,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|8a78a78 del 31 May 2023                              |
+|Versión|a782971 del 31 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -156,7 +156,7 @@ graph TD;
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % FNA, Stefanini
-% Version 8a78a78 del 31 May 2023
+% Version a782971 del 31 May 2023
 
 <br>
 
@@ -185,22 +185,46 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 *** 
 
 
+|Tema|Vista de Contexto: **Elementos de la Arquitectura Impactados por el Proyecto**|
+|----|-----------------------------------------------------------------------|
+|Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
+|Autor| |
+|Fuente| |
+|Version|a782971 del 31 May 2023|
+|Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
-## Justificación de los ítems de arquitectura impactados por el proyecto
-En función a los resultados del nivel de la evaluación de las dimensiones de arquitectura para el FNA: Negocio, Organización y Gobierno,
+<br>
+
+# Vista de Contexto Fase II, E-Service, 2023 (181-2020)
+## Elementos de la Arquitectura Impactados por el Proyecto
+La vista de contexto o segmento de empresa presenta un corte de la arquitectura del Fondo Nacional del Ahorro (FNA, en adelante) acotada a las partes que son sujeto de trabajo de este proyecto, Gobierno SOA, Fase II, E-Service (contrato 181-2020). Si bien, la vista contiene aquellas partes directamente relacionadas con el proyecto, también presenta la relación indirecta que hay con otros ítems de la arquitectura del FNA.
+
+
+![](images/segmentoFNAfaseII.jpg) 
+
+[Imagen 1.]() Elementos de la arquitectura del FNA, la empresa, involucrados e impactados por el proyecto actual. Muestra además la relación indirecta con otras partes de la empresa, externas a la vista de contexto.
+
+_Fuente: Elaboración propia._
+
+<br>
+
+Esta vista le informa al FNA tres objetivos importates. Primero, que el ejercicio actual, de gobierno SOA en esta caso, aunque sea de caracter empresarial está condicionada por las restricciones del proyecto presente, no puede por esto mismo abarcar a la completitud de la empresa. Por esta razón el segmento presentado en la imagen arriba hace foco en las partes que son relevantes según las restricciones de ejecución y resultados esperados de este proyecto. Segundo, la vista de contexto comunica las problemáticas y operaciones (en forma de trabajo, al final de la vista) que se deberán realizar para producir una solución esperada e los términos del proyecto, que en esta caso es de Gobierno SOA.
+
+Tercero y último, facilita la justificación y los criterios con los que se realizó la inclusión de los ítems que en ella figuran.
+
+<br>
+
+## Justificación de los Ítems de Arquitectura Impactados por el Proyecto
+En función a los resultados de los diagnósticos de E-Service, Fase Idel, específicamente de la evaluación de madurez de las dimensiones de arquitectura para el FNA, Negocio, Organización y Gobierno,
 Método, Aplicaciones, Arquitectura, Información e Infraestructura; el FNA se encuentra en un nivel de madurez **REACTIVO** asociado a 
 una gestión de información en modo aislado según las necesidades de cada área/sistema y por otra parte se encuentran soluciones específicas
 para demandas puntuales.
 
-En ese sentido, se hace necesario impactar los procesos misionales del FNA, en función de mejorar la calidad de los servicios
-que presta a los ciudadanos, en cumplimiento del marco normativo y evolución tecnológica que establece la **Política de Gobierno Digital**
-del **Ministerio de Tecnologías de la Información y las Comunicaciones**
-
-Y dentro de esos procesos misionales, las actividades asociadas a **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**,
+En ese sentido, se hace necesario impactar los procesos que mayor presentan estas problemáticas en el Fondo, en función de mejorar la calidad de los servicios que presta, y en cumplimiento tanto de negocio (vicepresidencias de Crédito y vicepresidencia de Operaciones), como del marco normativo y evolución tecnológica que establece la _Política de Gobierno Digital_
+del Ministerio de Tecnologías de la Información y las Comunicaciones. Y dentro de esos procesos misionales, las actividades asociadas a **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**,
 constituyen elementos que habilitan al FNA, para una adecuada ruta de calidad de servicio y generación de valor para los interesados.
 
-Estos elementos son abordados en el periodo de tiempo establecido para el ejercicio; **dos meses** y con el equipo de trabajo dimensionado
-para su desarrollo.
+Estos elementos son abordados en el periodo de tiempo establecido para el ejercicio del proyecto, esto es _dos meses_, y con el equipo de trabajo presentado para su desarrollo.
 
 Por otra parte; se hace necesario establecer los artefactos que son relevantes para la Entidad, en función de su misionalidad y las demandas 
 de los interesados **ciudadanos**
@@ -208,7 +232,7 @@ de los interesados **ciudadanos**
 ## Descripción de los elementos de la vista de segmento
 
 La vista de segmento que define los ítems de arquitectura del FNA a ser abordados en esta etapa del proyecto; comprenden los siguientes
-elementos:
+elementos.
 
 1. Los procesos de **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
 1. Los objetivos representados en el gobierno y adopción de la arquitectura
@@ -283,11 +307,10 @@ A través de la práctica de arquitectura, el FNA empieza a generar un gobierno 
 y soluciones digitales que presta a los ciudadanos.
 
 ### Gestión de Arquitectura FNA**
+Este componente está orientado a la instauración del Gobierno de Arquitectura; con los elementos que lo componen: procesos, estructura,
+habilidades y competencias, políticas, cultura y ëtica, y elementos de información.
 
-Este componente está orientado a la instauración del Gobierno de Arquitectura; con los elementos que lo componen: Procesos, Estructura,
-Habilidades y Competencias, Políticas, Cultura y Ëtica, Infraestructura y Elementos de Información.
-
-Es un objetivo a cumplir para los procesos definnidos en esta fase: **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
+Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_.
 
 
 
