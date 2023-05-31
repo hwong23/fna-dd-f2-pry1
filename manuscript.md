@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-31" />
   <meta name="citation_publication_date" content="2023-05-31" />
   <meta property="article:published_time" content="2023-05-31" />
-  <meta name="dc.modified" content="2023-05-31T20:03:30+00:00" />
-  <meta property="article:modified_time" content="2023-05-31T20:03:30+00:00" />
+  <meta name="dc.modified" content="2023-05-31T21:40:51+00:00" />
+  <meta property="article:modified_time" content="2023-05-31T21:40:51+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/a782971acbadb114518759726e1623fba6e64bc4/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a782971acbadb114518759726e1623fba6e64bc4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a782971acbadb114518759726e1623fba6e64bc4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/923b5ff9c2751e0220c8375c0c7cc0f7acbb5bcd/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/923b5ff9c2751e0220c8375c0c7cc0f7acbb5bcd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/923b5ff9c2751e0220c8375c0c7cc0f7acbb5bcd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/a782971acbadb114518759726e1623fba6e64bc4/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/923b5ff9c2751e0220c8375c0c7cc0f7acbb5bcd/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@a782971](https://github.com/hwong23/fna-dd-f2-pry1/tree/a782971acbadb114518759726e1623fba6e64bc4)
+[hwong23/fna-dd-f2-pry1@923b5ff](https://github.com/hwong23/fna-dd-f2-pry1/tree/923b5ff9c2751e0220c8375c0c7cc0f7acbb5bcd)
 del May 31, 2023.
 </em></small>
 
@@ -137,26 +137,16 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|a782971 del 31 May 2023                              |
+|Versión|923b5ff del 31 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
-
-Here is a simple flow chart:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
 
 
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % FNA, Stefanini
-% Version a782971 del 31 May 2023
+% Version 923b5ff del 31 May 2023
 
 <br>
 
@@ -190,7 +180,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|a782971 del 31 May 2023|
+|Version|923b5ff del 31 May 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -314,35 +304,6 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 
 
 
-
-Por lo anterior, los servicios SOA del FNA más relevantes según los modelos son los indicados a continuación. De igual manera que para el Fondo, estas partes de la empresa son importantes para futuros diagnósticos y gobierno SOA.
-
-|**Parte FNA**|**Parte Relacionada**|**Tipo**|
-|-------------|---------------------|--------|
-|Desarrollo de nuevos negocios|AS026-Gestión de Autenticación|**application-service**|
-||AS034-ConsultarestadocuentaCartera|**application-service**|
-||ASXX3-RegistrarRecaudoObligacion|**application-service**|
-||COBIS|application-component|
-||Servicios COBIS|application-collaboration|
-|Entrega de Productos|AS026-Gestión de Autenticación|**application-service**|
-||AS034-ConsultarestadocuentaCartera|**application-service**|
-||ASXX3-RegistrarRecaudoObligacion|**application-service**|
-||COBIS|application-component|
-||Servicios COBIS|application-collaboration|
-|Gestión de Cliente|AS026-Gestión de Autenticación|**application-service**|
-||AS034-ConsultarestadocuentaCartera|**application-service**|
-||ASXX3-RegistrarRecaudoObligacion|**application-service**|
-||COBIS|application-component|
-||Servicios COBIS|application-collaboration|
-|Servicios de Cuentas|AS026-Gestión de Autenticación|**application-service**|
-||AS034-ConsultarestadocuentaCartera|**application-service**|
-||ASXX3-RegistrarRecaudoObligacion|**application-service**|
-||COBIS|application-component|
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-
-
 ## Anexo del Producto 1 (PR01)
 ### Vista de Segmento del Proyecto
 
@@ -353,6 +314,35 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 _Fuente: Diagnóstico SOA. E-Service (2022)_
 
 <br>
+
+
+
+Por lo anterior, los servicios SOA del FNA más relevantes según los modelos son los indicados a continuación. De igual manera que para el Fondo, estas partes de la empresa son importantes para futuros diagnósticos y gobierno SOA.
+
+| **Parte FNA**                 | **Parte Relacionada**              | **Tipo**                  |
+|-------------------------------|------------------------------------|---------------------------|
+| Desarrollo de nuevos negocios | AS026-Gestión de Autenticación     | **application-service**   |
+|                               | AS034-ConsultarestadocuentaCartera | **application-service**   |
+|                               | ASXX3-RegistrarRecaudoObligacion   | **application-service**   |
+|                               | COBIS                              | application-component     |
+|                               | Servicios COBIS                    | application-collaboration |
+| Entrega de Productos          | AS026-Gestión de Autenticación     | **application-service**   |
+|                               | AS034-ConsultarestadocuentaCartera | **application-service**   |
+|                               | ASXX3-RegistrarRecaudoObligacion   | **application-service**   |
+|                               | COBIS                              | application-component     |
+|                               | Servicios COBIS                    | application-collaboration |
+| Gestión de Cliente            | AS026-Gestión de Autenticación     | **application-service**   |
+|                               | AS034-ConsultarestadocuentaCartera | **application-service**   |
+|                               | ASXX3-RegistrarRecaudoObligacion   | **application-service**   |
+|                               | COBIS                              | application-component     |
+|                               | Servicios COBIS                    | application-collaboration |
+| Servicios de Cuentas          | AS026-Gestión de Autenticación     | **application-service**   |
+|                               | AS034-ConsultarestadocuentaCartera | **application-service**   |
+|                               | ASXX3-RegistrarRecaudoObligacion   | **application-service**   |
+|                               | COBIS                              | application-component     |
+
+_Fuente: Diagnóstico SOA. E-Service (2022)_
+
 
 
 # E-Service. Fase II. PRY01 Gobierno SOA
