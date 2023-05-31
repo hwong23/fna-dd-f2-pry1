@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-05-30'
+date-meta: '2023-05-31'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="og:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
   <meta property="twitter:title" content="Propuesta Hoja de Ruta FNA, Período 2023" />
-  <meta name="dc.date" content="2023-05-30" />
-  <meta name="citation_publication_date" content="2023-05-30" />
-  <meta property="article:published_time" content="2023-05-30" />
-  <meta name="dc.modified" content="2023-05-30T17:21:42+00:00" />
-  <meta property="article:modified_time" content="2023-05-30T17:21:42+00:00" />
+  <meta name="dc.date" content="2023-05-31" />
+  <meta name="citation_publication_date" content="2023-05-31" />
+  <meta property="article:published_time" content="2023-05-31" />
+  <meta name="dc.modified" content="2023-05-31T02:20:35+00:00" />
+  <meta property="article:modified_time" content="2023-05-31T02:20:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/04a627ed1e1cde2ea81a14a76f5e094fee6a26f6/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/04a627ed1e1cde2ea81a14a76f5e094fee6a26f6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/04a627ed1e1cde2ea81a14a76f5e094fee6a26f6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/e2a9e1f567539171bc85b3d75b6ff25c019a4e57/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e2a9e1f567539171bc85b3d75b6ff25c019a4e57/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e2a9e1f567539171bc85b3d75b6ff25c019a4e57/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,10 +72,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/04a627ed1e1cde2ea81a14a76f5e094fee6a26f6/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/e2a9e1f567539171bc85b3d75b6ff25c019a4e57/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@04a627e](https://github.com/hwong23/fna-dd-f2-pry1/tree/04a627ed1e1cde2ea81a14a76f5e094fee6a26f6)
-del May 30, 2023.
+[hwong23/fna-dd-f2-pry1@e2a9e1f](https://github.com/hwong23/fna-dd-f2-pry1/tree/e2a9e1f567539171bc85b3d75b6ff25c019a4e57)
+del May 31, 2023.
 </em></small>
 
 
@@ -132,7 +132,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % Stefanini
-% Version 04a627e del 30 May 2023
+% Version e2a9e1f del 31 May 2023
 
 <br>
 
@@ -168,7 +168,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|04a627e del 30 May 2023                              |
+|Versión|e2a9e1f del 31 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -188,18 +188,18 @@ graph TD;
 
 ## Justificación de los ítems de arquitectura impactados por el proyecto
 En función a los resultados del nivel de la evaluación de las dimensiones de arquitectura para el FNA: Negocio, Organización y Gobierno,
-Método, Aplicaciones, Arquitectura, Información e Infraestructura; el FNA se encuentra en un nivel de madurez ** REACTIVO ** asociado a 
+Método, Aplicaciones, Arquitectura, Información e Infraestructura; el FNA se encuentra en un nivel de madurez **REACTIVO** asociado a 
 una gestión de información en modo aislado según las necesidades de cada área/sistema y por otra parte se encuentran soluciones específicas
 para demandas puntuales.
 
 En ese sentido, se hace necesario impactar los procesos misionales del FNA, en función de mejorar la calidad de los servicios
-que presta a los ciudadanos, en cumplimiento del marco normativo y evolución tecnológica que establece la ** Política de Gobierno Digital **
-del Ministerio de Tecnologías de la Información y las Comunicaciones **
+que presta a los ciudadanos, en cumplimiento del marco normativo y evolución tecnológica que establece la **Política de Gobierno Digital**
+del **Ministerio de Tecnologías de la Información y las Comunicaciones**
 
-Y dentro de esos procesos misionales, las actividades asociadas a ** Diseño de Servicios y Soluciones FNA ** y ** Verificación y Calidad de Implementación **,
+Y dentro de esos procesos misionales, las actividades asociadas a **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**,
 constituyen elementos que habilitan al FNA, para una adecuada ruta de calidad de servicio y generación de valor para los interesados.
 
-Estos elementos son abordados en el periodo de tiempo establecido para el ejercicio; ** dos meses ** y con el equipo de trabajo dimensionado
+Estos elementos son abordados en el periodo de tiempo establecido para el ejercicio; **dos meses** y con el equipo de trabajo dimensionado
 para su desarrollo.
 
 Por otra parte; se hace necesario establecer los artefactos que son relevantes para la Entidad, en función de su misionalidad y las demandas 
@@ -210,15 +210,15 @@ de los interesados **ciudadanos**
 La vista de segmento que define los ítems de arquitectura del FNA a ser abordados en esta etapa del proyecto; comprenden los siguientes
 elementos:
 
-1. Los procesos de ** Diseño de Servicios y Soluciones FNA ** y ** Verificación y Calidad de Implementación **
+1. Los procesos de **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
 1. Los objetivos representados en el gobierno y adopción de la arquitectura
-1. Los servicios derivados del ** Diseño de Servicios y Soluciones FNA ** y ** Verificación y Calidad de Implementación **
+1. Los servicios derivados del **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
 1. La infraestructura tecnológica que soporta los servicios
 
 ### Diseño de Servicios y Soluciones FNA
 
 El diseño de servicios y soluciones, constituye una competencia a desarrollar y madurar al interior del FNA, en concordancia con las
-recomendaciones de los marcos de referencia: ** e-Competence Framework (e-CF)—A common European Framework for ICT Professionals in all industry sectors—Part 1: Framework, 2016 **
+recomendaciones de los marcos de referencia: **e-Competence Framework (e-CF)—A common European Framework for ICT Professionals in all industry sectors—Part 1: Framework, 2016**
 en los cuales la etapa de diseño está alineada con los requisitos de los servicios demandados por los interesados, su posterior desarrollo,
 la adquisición/contratación y el gobierno que se hace necesario implementar para soportar la operación:
 
@@ -234,7 +234,7 @@ rentables, capaces de apoyar los objetivos trazados en la vista de segmento de e
 Estas soluciones digitales pueden adoptar varias formas, desde aplicaciones móviles, plataformas en línea, software personalizado,
 y sistemas de gestión empresarial, entre otros.
 
-Por otra parte y en articulación al Marco para la Transformación Digital del Estado Colombiano, del ** MinTIC **, el diseño de servicios y
+Por otra parte y en articulación al Marco para la Transformación Digital del Estado Colombiano, del **MinTIC**, el diseño de servicios y
 soluciones, integra habilidades del FNA, orientadas principalmente a:
 
 * Diseño con enfoque centrado en los usuarios, (ciudadanos)
@@ -249,28 +249,46 @@ del FNA.
 Este componente dentro de la vista de arquitectura de segmento, define el éxito del diseño de servicios y soluciones, debido a la consideración
 de buenas prácticas, cumplimiento de normas y un adecuado gobierno en la etapa de diseño, hasta llegar a la implementación y puesta en funcionamiento.
 
-La ** Verificación y Calidad de Implementación ** dentro de la arquitectura de segmento, asegura que el diseño tuvo una planificación adecuada, un
+La **Verificación y Calidad de Implementación** dentro de la arquitectura de segmento, asegura que el diseño tuvo una planificación adecuada, un
 equipo de trabajo con las competencias necesarias, una comunicación acertiva, un modelo de desarrollo y ejecución de pruebas, un mecanismo gradual de
 implementación, las respectivas capacitaciones, los requerimientos de seguridad y privacidad y la generación de hábitos y comportamientos a través del
 uso y apropiación de la solución desplegada.
 
-Lo anterior sugiere los niveles de actuación de un gobierno; ** Gobierno SOA **
+Lo anterior sugiere los niveles de actuación de un gobierno; **Gobierno SOA**
 
 Dentro del alcance de esta fase del proyecto, se contempla el diseño del Gobierno SOA, compuesto por elementos con
 líneas de actuación en completa articulación; los resultados de uno, impactan los resultados y el accionar de los demás.
 
 Estos elementos que se relacionan a continuación:
+ 
+* Procesos
+* Estructura
+* Habilidades y Competencias
+* Políticas
+* Cultura y Ética
+* Infraestructura
+* Elementos de Información
 
-•	Procesos
-•	Estructura
-•	Habilidades y Competencias
-•	Políticas
-•	Cultura y Ética
-•	Infraestructura
-•	Elementos de Información
+### Desarrollo de Arquitecturas FNA**
 
+Dentro del dominio motivacional; una de las metas claves de la vista de segmento corresponde al desarrollo de arquitecturas, como
+elementos rectores de gobierno de los procesos: **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
 
-  
+De acuerdo al Marco de Referencia de Arquitectura Empresarial - **MRAE** del MinTIC es necesario generar una articulación entre: las
+iniciativas que se generan desde los dos procesos que son parte del alcance de esta fase; la ejecución de los proyectos que se generaron
+a partir de aquellas iniciativas; y una gestión y monitoreo de los impactos de la finalización de los proyectos y los productos que 
+entregan a nivel de servicios.
+
+A través de la práctica de arquitectura, el FNA empieza a generar un gobierno del diseño y posterior implmentación de los servicios
+y soluciones digitales que presta a los ciudadanos.
+
+### Gestión de Arquitectura FNA**
+
+Este componente está orientado a la instauración del Gobierno de Arquitectura; con los elementos que lo componen: Procesos, Estructura,
+Habilidades y Competencias, Políticas, Cultura y Ëtica, Infraestructura y Elementos de Información.
+
+Es un objetivo a cumplir para los procesos definnidos en esta fase: **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
+
 
 ## Anexo vista de segmento
 
