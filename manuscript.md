@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-31" />
   <meta name="citation_publication_date" content="2023-05-31" />
   <meta property="article:published_time" content="2023-05-31" />
-  <meta name="dc.modified" content="2023-05-31T13:27:42+00:00" />
-  <meta property="article:modified_time" content="2023-05-31T13:27:42+00:00" />
+  <meta name="dc.modified" content="2023-05-31T13:37:27+00:00" />
+  <meta property="article:modified_time" content="2023-05-31T13:37:27+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/457049af812e10ccf69abf7da09a9fffc37d4ccc/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/457049af812e10ccf69abf7da09a9fffc37d4ccc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/457049af812e10ccf69abf7da09a9fffc37d4ccc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/a67463529d6b448e754138dcb1008d30a8fce652/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a67463529d6b448e754138dcb1008d30a8fce652/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a67463529d6b448e754138dcb1008d30a8fce652/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/457049af812e10ccf69abf7da09a9fffc37d4ccc/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/a67463529d6b448e754138dcb1008d30a8fce652/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@457049a](https://github.com/hwong23/fna-dd-f2-pry1/tree/457049af812e10ccf69abf7da09a9fffc37d4ccc)
+[hwong23/fna-dd-f2-pry1@a674635](https://github.com/hwong23/fna-dd-f2-pry1/tree/a67463529d6b448e754138dcb1008d30a8fce652)
 del May 31, 2023.
 </em></small>
 
@@ -132,7 +132,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % Stefanini
-% Version 457049a del 31 May 2023
+% Version a674635 del 31 May 2023
 
 <br>
 
@@ -168,7 +168,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|457049a del 31 May 2023                              |
+|Versión|a674635 del 31 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -269,7 +269,7 @@ Estos elementos que se relacionan a continuación:
 * Infraestructura
 * Elementos de Información
 
-### Desarrollo de Arquitecturas FNA**
+### Desarrollo de Arquitecturas FNA
 
 Dentro del dominio motivacional; una de las metas claves de la vista de segmento corresponde al desarrollo de arquitecturas, como
 elementos rectores de gobierno de los procesos: **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
@@ -290,9 +290,16 @@ Habilidades y Competencias, Políticas, Cultura y Ëtica, Infraestructura y Elem
 Es un objetivo a cumplir para los procesos definnidos en esta fase: **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
 
 
-## Anexo vista de segmento
 
+## Título...
 
+![](images/brechaCreditoCostructor.jpg)
+
+[Imagen 1.]() Partes de la arquitectura de Crédito Constructor impactados por el análisis de brecha en el contexto de flexibilidad de negocio.
+
+_Fuente: ae_fna_as_is.archimate._
+
+<br>
 
 
 # E-Service. Fase II. PRY01 Gobierno SOA
