@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-31" />
   <meta name="citation_publication_date" content="2023-05-31" />
   <meta property="article:published_time" content="2023-05-31" />
-  <meta name="dc.modified" content="2023-05-31T13:37:27+00:00" />
-  <meta property="article:modified_time" content="2023-05-31T13:37:27+00:00" />
+  <meta name="dc.modified" content="2023-05-31T16:29:21+00:00" />
+  <meta property="article:modified_time" content="2023-05-31T16:29:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/a67463529d6b448e754138dcb1008d30a8fce652/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a67463529d6b448e754138dcb1008d30a8fce652/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a67463529d6b448e754138dcb1008d30a8fce652/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/762fa36c1aff4d3f0b827bfd1d8bec6e20d75842/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/762fa36c1aff4d3f0b827bfd1d8bec6e20d75842/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/762fa36c1aff4d3f0b827bfd1d8bec6e20d75842/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/a67463529d6b448e754138dcb1008d30a8fce652/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/762fa36c1aff4d3f0b827bfd1d8bec6e20d75842/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@a674635](https://github.com/hwong23/fna-dd-f2-pry1/tree/a67463529d6b448e754138dcb1008d30a8fce652)
+[hwong23/fna-dd-f2-pry1@762fa36](https://github.com/hwong23/fna-dd-f2-pry1/tree/762fa36c1aff4d3f0b827bfd1d8bec6e20d75842)
 del May 31, 2023.
 </em></small>
 
@@ -131,20 +131,20 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
-% Stefanini
-% Version a674635 del 31 May 2023
+% FNA, Stefanini
+% Version 762fa36 del 31 May 2023
 
 <br>
 
 # Producto 1: PR01. Detalle de los ítems de arquitectura impactados por el proyecto 
-Lista de las partes de la arquitectura actual del FNA relacionados con el proyecto.
+Lista de las partes de la arquitectura actual del FNA relacionados con el Gobierno SOA, objeto del proyecto.
 
 **Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
 
 <br>
 
 ## Justificación
-Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01, Gobierno SOA, en su  Etapa 0, tal que garantice su continuidad y ejecución.
+Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01, Gobierno SOA, en su  Etapa 0, tal que garantice la continuidad y ejecución de la etapa
 
 ## Contenidos
 1. Vista de segmento de la empresa, campo de acción del proyecto
@@ -156,7 +156,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 ## Criterios de Aceptación
 
 * Lista de los ítems de los flujos críticos de trabajo sujetos al gobierno SOA
-* Vista de segmento de la empresa del proyecto 1 (PRY01), Gobierno SOA
+* Vista de segmento de la empresa del proyecto 1 (PRY01), Gobierno SOA FNA
 
 *** 
 
@@ -168,7 +168,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|a674635 del 31 May 2023                              |
+|Versión|762fa36 del 31 May 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
