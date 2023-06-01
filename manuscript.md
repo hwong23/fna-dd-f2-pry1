@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-01" />
   <meta name="citation_publication_date" content="2023-06-01" />
   <meta property="article:published_time" content="2023-06-01" />
-  <meta name="dc.modified" content="2023-06-01T19:52:48+00:00" />
-  <meta property="article:modified_time" content="2023-06-01T19:52:48+00:00" />
+  <meta name="dc.modified" content="2023-06-01T20:23:03+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T20:23:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/b90fabeefea04fb5985cfb65b2d4ef2a1764037d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/b90fabeefea04fb5985cfb65b2d4ef2a1764037d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/b90fabeefea04fb5985cfb65b2d4ef2a1764037d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/fe90536370e934fc2d52e03c3e447ddd8ee798e8/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/fe90536370e934fc2d52e03c3e447ddd8ee798e8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/fe90536370e934fc2d52e03c3e447ddd8ee798e8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/b90fabeefea04fb5985cfb65b2d4ef2a1764037d/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/fe90536370e934fc2d52e03c3e447ddd8ee798e8/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@b90fabe](https://github.com/hwong23/fna-dd-f2-pry1/tree/b90fabeefea04fb5985cfb65b2d4ef2a1764037d)
+[hwong23/fna-dd-f2-pry1@fe90536](https://github.com/hwong23/fna-dd-f2-pry1/tree/fe90536370e934fc2d52e03c3e447ddd8ee798e8)
 del June 1, 2023.
 </em></small>
 
-|    **Version** del producto b90fabe del 01 Jun 2023
+|    **Version** del producto fe90536 del 01 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|b90fabe del 01 Jun 2023                              |
+|Versión|fe90536 del 01 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -153,8 +153,10 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 
 | E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
+
 | FNA, Stefanini
-| Version b90fabe del 01 Jun 2023
+
+| **Version** fe90536 del 01 Jun 2023
 
 <br>
 
@@ -190,7 +192,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|b90fabe del 01 Jun 2023|
+|Version|fe90536 del 01 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -312,8 +314,8 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 
 ***
 
-## Anexo del Producto 1 (PR01)
-### 1. Vista de Segmento del Proyecto
+# Anexos del Producto 1 (PR01)
+## 1. Vista de Segmento del Proyecto
 
 ![](images/segmentoFNAfaseII.jpg)
 
@@ -324,7 +326,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 <br>
 
 
-### 2. Servicios SOA del FNA Vista de Segmento  del Proyecto
+## 2. Servicios SOA del FNA Vista de Segmento  del Proyecto
 Por lo anterior, los servicios SOA del FNA más relevantes según los modelos son los indicados a continuación. De igual manera que para el Fondo, estas partes de la empresa son importantes para futuros diagnósticos y gobierno SOA.
 
 | **Capacidades FNA**                 | **Parte Relacionada**              | **Tipo**                  |
@@ -353,7 +355,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 
 
 
-### 3. Lista de Fases y Entregables del Proyecgto 1 (PRY01), Gobierno SOA
+## 3. Lista de Fases y Entregables del Proyecgto 1 (PRY01), Gobierno SOA
 |        | PRY01. Gobierno SOA                                                                    | Documentación |
 |------------|----------------------------------------------------------------------------------------|---------------|
 | Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |               |
