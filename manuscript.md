@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-01" />
   <meta name="citation_publication_date" content="2023-06-01" />
   <meta property="article:published_time" content="2023-06-01" />
-  <meta name="dc.modified" content="2023-06-01T19:19:31+00:00" />
-  <meta property="article:modified_time" content="2023-06-01T19:19:31+00:00" />
+  <meta name="dc.modified" content="2023-06-01T19:24:28+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T19:24:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/e14ebc3f37c9db471d57f2a87dde21d489e18732/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e14ebc3f37c9db471d57f2a87dde21d489e18732/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e14ebc3f37c9db471d57f2a87dde21d489e18732/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/f45bfb9dc0caf02537971f8e33cba80335aecf14/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/f45bfb9dc0caf02537971f8e33cba80335aecf14/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/f45bfb9dc0caf02537971f8e33cba80335aecf14/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,11 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/e14ebc3f37c9db471d57f2a87dde21d489e18732/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/f45bfb9dc0caf02537971f8e33cba80335aecf14/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@e14ebc3](https://github.com/hwong23/fna-dd-f2-pry1/tree/e14ebc3f37c9db471d57f2a87dde21d489e18732)
+[hwong23/fna-dd-f2-pry1@f45bfb9](https://github.com/hwong23/fna-dd-f2-pry1/tree/f45bfb9dc0caf02537971f8e33cba80335aecf14)
 del June 1, 2023.
 </em></small>
+
+|    Version del producto f45bfb9 del 01 Jun 2023
 
 
 
@@ -127,6 +129,9 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 :::
 
+<br>
+
+
 
 ## Objetivo del Documento
 
@@ -137,7 +142,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|e14ebc3 del 01 Jun 2023                              |
+|Versión|f45bfb9 del 01 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -151,7 +156,7 @@ Resumen del documento.
 
 | E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 | FNA, Stefanini
-| Version e14ebc3 del 01 Jun 2023
+| Version f45bfb9 del 01 Jun 2023
 
 <br>
 
@@ -187,7 +192,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|e14ebc3 del 01 Jun 2023|
+|Version|f45bfb9 del 01 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
