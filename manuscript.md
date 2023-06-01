@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-01" />
   <meta name="citation_publication_date" content="2023-06-01" />
   <meta property="article:published_time" content="2023-06-01" />
-  <meta name="dc.modified" content="2023-06-01T18:36:02+00:00" />
-  <meta property="article:modified_time" content="2023-06-01T18:36:02+00:00" />
+  <meta name="dc.modified" content="2023-06-01T18:45:41+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T18:45:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/8189c4d4349f8fb6f26555eb895b5e738040c59b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8189c4d4349f8fb6f26555eb895b5e738040c59b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8189c4d4349f8fb6f26555eb895b5e738040c59b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/8189c4d4349f8fb6f26555eb895b5e738040c59b/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@9fea3bd](https://github.com/hwong23/fna-dd-f2-pry1/tree/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d)
+[hwong23/fna-dd-f2-pry1@8189c4d](https://github.com/hwong23/fna-dd-f2-pry1/tree/8189c4d4349f8fb6f26555eb895b5e738040c59b)
 del June 1, 2023.
 </em></small>
 
@@ -137,7 +137,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|9fea3bd del 01 Jun 2023                              |
+|Versión|8189c4d del 01 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -147,7 +147,7 @@ Resumen del documento.
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % FNA, Stefanini
-% Version 9fea3bd del 01 Jun 2023
+% Version 8189c4d del 01 Jun 2023
 
 <br>
 
@@ -183,7 +183,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|9fea3bd del 01 Jun 2023|
+|Version|8189c4d del 01 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -226,23 +226,23 @@ de los interesados **ciudadanos**
 La vista de segmento que define los ítems de arquitectura del FNA a ser abordados en esta etapa del proyecto; comprenden los siguientes
 elementos.
 
-1. Los procesos de **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
+1. Los procesos de _Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación_
 1. Los objetivos representados en el gobierno y adopción de la arquitectura
-1. Los servicios derivados del **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
+1. Los servicios derivados del _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_
 1. La infraestructura tecnológica que soporta los servicios
 
-### Diseño de Servicios y Soluciones FNA
+<br>
 
-El diseño de servicios y soluciones, constituye una competencia a desarrollar y madurar al interior del FNA, en concordancia con las
-recomendaciones de los marcos de referencia: **e-Competence Framework (e-CF)—A common European Framework for ICT Professionals in all industry sectors—Part 1: Framework, 2016**
-en los cuales la etapa de diseño está alineada con los requisitos de los servicios demandados por los interesados, su posterior desarrollo,
-la adquisición/contratación y el gobierno que se hace necesario implementar para soportar la operación:
+### Diseño de Servicios y Soluciones FNA
+El diseño de servicios y soluciones, constituye una competencia a desarrollar y madurar al interior del FNA, en concordancia con las recomendaciones de los marcos de referencia: _e-Competence Framework (e-CF)—A common European Framework for ICT Professionals in all industry sectors—Part 1: Framework, 2016_
+en los cuales la etapa de diseño está alineada con los requisitos de los servicios demandados por los interesados, su posterior desarrollo, la adquisición o contratación y el gobierno que se hace necesario implementar para soportar la operación:
 
 * Gestión de la configuración
 * Preparación y ejecución de pruebas
 * Gestión de Requisitos y Mantenimiento
 * Atención de problemas
 * Atención de incidentes
+
 
 El Diseño de Servicios y Soluciones, garantiza una prestación ágil y escalable de servicios y soluciones digitales del FNA, además de oportunas y
 rentables, capaces de apoyar los objetivos trazados en la vista de segmento de esta estapa del proyecto.
@@ -285,6 +285,8 @@ Estos elementos que se relacionan a continuación:
 * Infraestructura
 * Elementos de Información
 
+<br>
+
 ### Desarrollo de Arquitecturas FNA
 Dentro del dominio motivacional; una de las metas claves de la vista de segmento corresponde al desarrollo de arquitecturas, como
 elementos rectores de gobierno de los procesos: **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
@@ -300,6 +302,8 @@ Este componente está orientado a la instauración del Gobierno de Arquitectura;
 Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_.
 
 
+
+***
 
 ## Anexo del Producto 1 (PR01)
 ### 1. Vista de Segmento del Proyecto
@@ -364,7 +368,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 # E-Service. Fase II. PRY01 Gobierno SOA
 # Contenido de los Productos Contractuales, (#contrato 181-2020)
 
-# Producto 1: PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
+# Producto 2: PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 Políticas y procedimiento, paquetes de trabajo, identificación de personas, roles y herramientas a desplegar a cargo de la oficina de arquitectura del FNA por concepto de la instauración del gobierno.
 
 **Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
@@ -384,9 +388,10 @@ El resultados del análisis de riesgos técnicos realizado en la Fase I de la co
 <br>
 
 ## Criterios de Aceptación
+* Entendimiento funcional y operativa de la oficina de arquitectura FNA
+* Matriz de roles y procedimientos de la oficina de arquitetura FNA
 
-* Lista de cambios para el segmento FNA: ítems incluídos, por mejorar, nuevos y eliminados
-* Hoja de ruta preliminar hacia un objetivo de mejora
+<br>
 
 *** 
 
