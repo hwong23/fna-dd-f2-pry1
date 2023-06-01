@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-01" />
   <meta name="citation_publication_date" content="2023-06-01" />
   <meta property="article:published_time" content="2023-06-01" />
-  <meta name="dc.modified" content="2023-06-01T17:38:13+00:00" />
-  <meta property="article:modified_time" content="2023-06-01T17:38:13+00:00" />
+  <meta name="dc.modified" content="2023-06-01T17:40:15+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T17:40:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/dc18380072b883ba3db138aace2ab77d2143378d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/dc18380072b883ba3db138aace2ab77d2143378d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/dc18380072b883ba3db138aace2ab77d2143378d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/4e5670018e5f660c633882e40c33ad9562216a99/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4e5670018e5f660c633882e40c33ad9562216a99/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4e5670018e5f660c633882e40c33ad9562216a99/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/dc18380072b883ba3db138aace2ab77d2143378d/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/4e5670018e5f660c633882e40c33ad9562216a99/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@dc18380](https://github.com/hwong23/fna-dd-f2-pry1/tree/dc18380072b883ba3db138aace2ab77d2143378d)
+[hwong23/fna-dd-f2-pry1@4e56700](https://github.com/hwong23/fna-dd-f2-pry1/tree/4e5670018e5f660c633882e40c33ad9562216a99)
 del June 1, 2023.
 </em></small>
 
@@ -137,7 +137,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|dc18380 del 01 Jun 2023                              |
+|Versión|4e56700 del 01 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -146,7 +146,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % FNA, Stefanini
-% Version dc18380 del 01 Jun 2023
+% Version 4e56700 del 01 Jun 2023
 
 <br>
 
@@ -180,7 +180,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|dc18380 del 01 Jun 2023|
+|Version|4e56700 del 01 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -360,7 +360,7 @@ El resultados del análisis de riesgos técnicos realizado en la Fase I de la co
 
 ## Contenidos
 1. Modelo de gobierno SOA del FNA: actores, información y procedimientos
-1. Modelo de gobierno oficina de arquitectura
+1. Flujo de trabajo de oficina de arquitectura del FNA
 1. Matriz de responsabilidades oficina de arquitectura
 1. Procedimientos base del modelo de gobierno / oficina de arquitectura
 1. Anexos. Referencia documental del Gobierno SOA del FNA
