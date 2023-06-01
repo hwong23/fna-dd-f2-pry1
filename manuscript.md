@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-01" />
   <meta name="citation_publication_date" content="2023-06-01" />
   <meta property="article:published_time" content="2023-06-01" />
-  <meta name="dc.modified" content="2023-06-01T18:18:27+00:00" />
-  <meta property="article:modified_time" content="2023-06-01T18:18:27+00:00" />
+  <meta name="dc.modified" content="2023-06-01T18:33:02+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T18:33:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/38566b8f22f6c4522e6806451fdc9b3e687a4092/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/38566b8f22f6c4522e6806451fdc9b3e687a4092/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/38566b8f22f6c4522e6806451fdc9b3e687a4092/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/fe7457fb4710de051c71a255e3427e185951c3e5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/fe7457fb4710de051c71a255e3427e185951c3e5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/fe7457fb4710de051c71a255e3427e185951c3e5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/38566b8f22f6c4522e6806451fdc9b3e687a4092/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/fe7457fb4710de051c71a255e3427e185951c3e5/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@38566b8](https://github.com/hwong23/fna-dd-f2-pry1/tree/38566b8f22f6c4522e6806451fdc9b3e687a4092)
+[hwong23/fna-dd-f2-pry1@fe7457f](https://github.com/hwong23/fna-dd-f2-pry1/tree/fe7457fb4710de051c71a255e3427e185951c3e5)
 del June 1, 2023.
 </em></small>
 
@@ -137,16 +137,17 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|38566b8 del 01 Jun 2023                              |
+|Versión|fe7457f del 01 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
+Resumen del documento.
 
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % FNA, Stefanini
-% Version 38566b8 del 01 Jun 2023
+% Version fe7457f del 01 Jun 2023
 
 <br>
 
@@ -172,6 +173,8 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 * Lista de los ítems de los flujos críticos de trabajo sujetos al gobierno SOA
 * Vista de segmento de la empresa del proyecto 1 (PRY01), Gobierno SOA FNA
 
+<br>
+
 *** 
 
 
@@ -180,7 +183,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|38566b8 del 01 Jun 2023|
+|Version|fe7457f del 01 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -211,8 +214,7 @@ una gestión de información en modo aislado según las necesidades de cada áre
 para demandas puntuales.
 
 En ese sentido, se hace necesario impactar los procesos que mayor presentan estas problemáticas en el Fondo, en función de mejorar la calidad de los servicios que presta, y en cumplimiento tanto de negocio (vicepresidencias de Crédito y vicepresidencia de Operaciones), como del marco normativo y evolución tecnológica que establece la _Política de Gobierno Digital_
-del Ministerio de Tecnologías de la Información y las Comunicaciones. Y dentro de esos procesos misionales, las actividades asociadas a **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**,
-constituyen elementos que habilitan al FNA, para una adecuada ruta de calidad de servicio y generación de valor para los interesados.
+del Ministerio de Tecnologías de la Información y las Comunicaciones. Y dentro de esos procesos misionales, las actividades asociadas a _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_, constituyen elementos que habilitan al FNA, para una adecuada ruta de calidad de servicio y generación de valor para los interesados.
 
 Estos elementos son abordados en el periodo de tiempo establecido para el ejercicio del proyecto, esto es _dos meses_, y con el equipo de trabajo presentado para su desarrollo.
 
@@ -284,28 +286,23 @@ Estos elementos que se relacionan a continuación:
 * Elementos de Información
 
 ### Desarrollo de Arquitecturas FNA
-
 Dentro del dominio motivacional; una de las metas claves de la vista de segmento corresponde al desarrollo de arquitecturas, como
 elementos rectores de gobierno de los procesos: **Diseño de Servicios y Soluciones FNA** y **Verificación y Calidad de Implementación**
 
-De acuerdo al Marco de Referencia de Arquitectura Empresarial - **MRAE** del MinTIC es necesario generar una articulación entre: las
-iniciativas que se generan desde los dos procesos que son parte del alcance de esta fase; la ejecución de los proyectos que se generaron
-a partir de aquellas iniciativas; y una gestión y monitoreo de los impactos de la finalización de los proyectos y los productos que 
+De acuerdo al Marco de Referencia de Arquitectura Empresarial - **MRAE** del MinTIC es necesario generar una articulación entre: las iniciativas que se generan desde los dos procesos que son parte del alcance de esta fase; la ejecución de los proyectos que se generaron a partir de aquellas iniciativas; y una gestión y monitoreo de los impactos de la finalización de los proyectos y los productos que 
 entregan a nivel de servicios.
 
-A través de la práctica de arquitectura, el FNA empieza a generar un gobierno del diseño y posterior implmentación de los servicios
-y soluciones digitales que presta a los ciudadanos.
+A través de la práctica de arquitectura, el FNA empieza a generar un gobierno del diseño y posterior implmentación de los servicios y soluciones digitales que presta a los ciudadanos.
 
-### Gestión de Arquitectura FNA**
-Este componente está orientado a la instauración del Gobierno de Arquitectura; con los elementos que lo componen: procesos, estructura,
-habilidades y competencias, políticas, cultura y ëtica, y elementos de información.
+### Gestión de Arquitectura FNA
+Este componente está orientado a la instauración del Gobierno de Arquitectura; con los elementos que lo componen: procesos, estructura, habilidades y competencias, políticas, cultura y ëtica, y elementos de información.
 
 Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_.
 
 
 
 ## Anexo del Producto 1 (PR01)
-### Vista de Segmento del Proyecto
+### 1. Vista de Segmento del Proyecto
 
 ![](images/segmentoFNAfaseII.jpg)
 
@@ -316,10 +313,10 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 <br>
 
 
-
+## 2. Servicios SOA del FNA Vista de Segmento  del Proyecto
 Por lo anterior, los servicios SOA del FNA más relevantes según los modelos son los indicados a continuación. De igual manera que para el Fondo, estas partes de la empresa son importantes para futuros diagnósticos y gobierno SOA.
 
-| **Parte FNA**                 | **Parte Relacionada**              | **Tipo**                  |
+| **Capacidades FNA**                 | **Parte Relacionada**              | **Tipo**                  |
 |-------------------------------|------------------------------------|---------------------------|
 | Desarrollo de nuevos negocios | AS026-Gestión de Autenticación     | **application-service**   |
 |                               | AS034-ConsultarestadocuentaCartera | **application-service**   |
@@ -342,6 +339,25 @@ Por lo anterior, los servicios SOA del FNA más relevantes según los modelos so
 |                               | COBIS                              | application-component     |
 
 _Fuente: Diagnóstico SOA. E-Service (2022)_
+
+
+
+## 3. Lista de Fases y Entregables del Proyecgto 1 (PRY01), Gobierno SOA
+|        | PRY01. Gobierno SOA                                                                    | Documentación |
+|--------|----------------------------------------------------------------------------------------|---------------|
+| Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |               |
+|        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |               |
+| Fase 1 | PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA    |               |
+|        | PR03. Diseño de los procesos y responsabilidades del comité de gobierno                |               |
+| Fase 2 | PR04. Definición de roles y responsabilidades y selección e instalación del comité     |               |
+|        | PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos              |               |
+| Fase 3 | PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto     |               |
+| Fase 4 | PR07. Métricas de efectividad del gobierno                                             |               |
+| A      | Generar lineamientos y políticas de gobierno SOA                                       |               |
+|        | Aplicar y fortalecer gobierno SOA en el FNA                                            |               |
+|        | Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA |               |
+
+<br>
 
 
 
@@ -437,60 +453,6 @@ _Guía: cómo se da por entregado el resultado del trabajo al cliente objetivo q
 
 ### Repetición
 _Guía: qué es necesario realizar al flujo para que asegurar que el cliente objetivo quiera ejecutarlo nuevamente._
-
-
-# Anexos Generales
-
-## Lista de Fases y Entregables de la Propuesta
-|        | PRY01. Gobierno SOA                                                                    | Documentación |
-|--------|----------------------------------------------------------------------------------------|---------------|
-| Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |               |
-|        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |               |
-| Fase 1 | PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA    |               |
-|        | PR03. Diseño de los procesos y responsabilidades del comité de gobierno                |               |
-| Fase 2 | PR04. Definición de roles y responsabilidades y selección e instalación del comité     |               |
-|        | PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos              |               |
-| Fase 3 | PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto     |               |
-| Fase 4 | PR07. Métricas de efectividad del gobierno                                             |               |
-| A      | Generar lineamientos y políticas de gobierno SOA                                       |               |
-|        | Aplicar y fortalecer gobierno SOA en el FNA                                            |               |
-|        | Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA |               |
-
-<br>
-
-|        | PRY02. Arquitectura Referencia 2.0                                                             | Documentación |
-|--------|------------------------------------------------------------------------------------------------|---------------|
-| Fase 0 | PR10. Detalle de los ítems de arquitectura impactados por el proyecto                          |               |
-|        | PR010.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                             |               |
-| Fase 1 | PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes          |               |
-|        | PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología  ​ |               |
-| Fase 2 | PR13. Modelado en lenguaje y herramienta de diseño del FNA​                                     |               |
-|        | PR14. Administración de las transiciones hacia la arquitectura versión 2.0                     |               |
-| Fase 3 | PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación          |               |
-| Fase 4 | PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura                  |               |
-|        | PR17. Ítems de arquitectura incrementados en ejecución                                         |               |
-| A      | Acelerar el desarrollo de las arquitecturas de solución​                                        |               |
-|        | Relacionar las implementaciones con las áreas de negocio y TI​                                  |               |
-|        | Demostrar el cumplimiento de los lineamientos y políticas de gobierno​ SOA/TI del Fondo         |               |
-|        | Documentación técnica en el depósito de arquitectura institucional​                             |               |
-
-<br>
-
-|        | PRY03. Estructuración de proyectos posteriores de la hoja de ruta E-Service                                 | Documentación |
-|--------|-------------------------------------------------------------------------------------------------------------|---------------|
-| Fase 0 | PR20. Documentación de estructuración y gestión de proyectos hoja de ruta E-Service por implementar         |               |
-|        | PR20.1. Aprobación de inicio de los proyectos de la hoja de ruta E-Service                                  |               |
-| Fase 1 | PR22. Plan de trabajo de los proyectos de la hoja de ruta E-Service                                         |               |
-|        | PR23. Listados de recursos, roles y personas requeridas por los proyectos de la hoja de ruta E-Service      |               |
-|        | PR24. Arquitectura de solución de los proyectos de cierre de brecha                                         |               |
-| Fase 2 | PR25. Ficha de proyectos hoja de ruta E-Service. Incremento 1                                               |               |
-| Fase 3 | PR26. Ficha de proyectos hoja de ruta E-Service. Incremento 2                                               |               |
-| A      | Definición de solución de los proyectos de la hoja de ruta E-Service por implementar                        |               |
-|        | Planificación de las actividades e hitos de los proyectos de la hoja de ruta E-Service                      |               |
-|        | Alistamiento de ejecución de los proyectos de la hoja de ruta por implementar: recursos y equipo de trabajo |               |
-|        | Aprobación de inicio de los proyectos de la hoja de ruta                                                    |               |
-
-<br>
 
 
 ## Referencias {.page_break_before}
