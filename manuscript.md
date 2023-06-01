@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-01" />
   <meta name="citation_publication_date" content="2023-06-01" />
   <meta property="article:published_time" content="2023-06-01" />
-  <meta name="dc.modified" content="2023-06-01T17:40:15+00:00" />
-  <meta property="article:modified_time" content="2023-06-01T17:40:15+00:00" />
+  <meta name="dc.modified" content="2023-06-01T18:18:27+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T18:18:27+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/4e5670018e5f660c633882e40c33ad9562216a99/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4e5670018e5f660c633882e40c33ad9562216a99/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4e5670018e5f660c633882e40c33ad9562216a99/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/38566b8f22f6c4522e6806451fdc9b3e687a4092/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/38566b8f22f6c4522e6806451fdc9b3e687a4092/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/38566b8f22f6c4522e6806451fdc9b3e687a4092/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/4e5670018e5f660c633882e40c33ad9562216a99/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/38566b8f22f6c4522e6806451fdc9b3e687a4092/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@4e56700](https://github.com/hwong23/fna-dd-f2-pry1/tree/4e5670018e5f660c633882e40c33ad9562216a99)
+[hwong23/fna-dd-f2-pry1@38566b8](https://github.com/hwong23/fna-dd-f2-pry1/tree/38566b8f22f6c4522e6806451fdc9b3e687a4092)
 del June 1, 2023.
 </em></small>
 
@@ -137,7 +137,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|4e56700 del 01 Jun 2023                              |
+|Versión|38566b8 del 01 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -146,7 +146,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % FNA, Stefanini
-% Version 4e56700 del 01 Jun 2023
+% Version 38566b8 del 01 Jun 2023
 
 <br>
 
@@ -163,7 +163,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 ## Contenidos
 1. Vista de segmento de la empresa, campo de acción del proyecto
 1. Justificación del segmento de la empresa susceptibles de gobierno
-1. Flujos críticos de trabajo sensibles de gobierno (relación con E-Service, Fase I)
+1. Flujos críticos de trabajo sensibles al gobierno (relación con E-Service, Fase I)
 
 <br>
 
@@ -180,7 +180,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|4e56700 del 01 Jun 2023|
+|Version|38566b8 del 01 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -438,6 +438,8 @@ _Guía: cómo se da por entregado el resultado del trabajo al cliente objetivo q
 ### Repetición
 _Guía: qué es necesario realizar al flujo para que asegurar que el cliente objetivo quiera ejecutarlo nuevamente._
 
+
+# Anexos Generales
 
 ## Lista de Fases y Entregables de la Propuesta
 |        | PRY01. Gobierno SOA                                                                    | Documentación |
