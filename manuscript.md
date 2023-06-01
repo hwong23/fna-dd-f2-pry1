@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-01" />
   <meta name="citation_publication_date" content="2023-06-01" />
   <meta property="article:published_time" content="2023-06-01" />
-  <meta name="dc.modified" content="2023-06-01T18:33:02+00:00" />
-  <meta property="article:modified_time" content="2023-06-01T18:33:02+00:00" />
+  <meta name="dc.modified" content="2023-06-01T18:36:02+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T18:36:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/fe7457fb4710de051c71a255e3427e185951c3e5/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/fe7457fb4710de051c71a255e3427e185951c3e5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/fe7457fb4710de051c71a255e3427e185951c3e5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -72,9 +72,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 Esta propuesta
-([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/fe7457fb4710de051c71a255e3427e185951c3e5/))
+([URL](https://hwong23.github.io/fna-dd-f2-pry1/v/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@fe7457f](https://github.com/hwong23/fna-dd-f2-pry1/tree/fe7457fb4710de051c71a255e3427e185951c3e5)
+[hwong23/fna-dd-f2-pry1@9fea3bd](https://github.com/hwong23/fna-dd-f2-pry1/tree/9fea3bd1979297b3ae059f5d97ff77cdaa7f474d)
 del June 1, 2023.
 </em></small>
 
@@ -137,7 +137,7 @@ Harry Wong, ing. \<e_hwong@stefanini.com\>.
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|fe7457f del 01 Jun 2023                              |
+|Versión|9fea3bd del 01 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -147,7 +147,7 @@ Resumen del documento.
 
 % E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
 % FNA, Stefanini
-% Version fe7457f del 01 Jun 2023
+% Version 9fea3bd del 01 Jun 2023
 
 <br>
 
@@ -183,7 +183,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|fe7457f del 01 Jun 2023|
+|Version|9fea3bd del 01 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -393,6 +393,7 @@ El resultados del análisis de riesgos técnicos realizado en la Fase I de la co
 
 # Elementos de Gobierno
 El gobierno SOA del FNA, objeto de este proyecto, tiene impacto sobre partes e ítems seleccionadas de la arquitectura de software y de servicios del FNA, respectivamente (ver vista de contextual, segmento de la empresa). El impacto de este gobierno se extiende a actores principales, interesados, usuarios y entidades relacionados con aquellas partes de la arquitectura del FNA.
+
 
 ## Objetivo del Gobierno SOA del FNA
 El FNN ha establecido como pilar tecnológico el Gobierno SOA tal que permita la continuidad de servicio, identificar las amenazas y riesgos que pueden impactar el desarrollo y la gestión de las arquitecturas de software del Fondo; tarea base para la generación de planes enfocados a la alienación y puesta marcha de futuras soluciones y mejoras de las actuales.
