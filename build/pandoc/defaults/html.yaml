@@ -1,7 +1,7 @@
 # Pandoc --defaults for HTML output.
 # Load on top of common defaults.
 to: html5
-output-file: output/manuscript.html
+output-file: output/FNA-manuscript.html
 # include-before-body:
 ### third-party plugins
 #- build/plugins/d3.html
