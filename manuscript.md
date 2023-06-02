@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-01'
+date-meta: '2023-06-02'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
   <meta property="og:title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
   <meta property="twitter:title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
-  <meta name="dc.date" content="2023-06-01" />
-  <meta name="citation_publication_date" content="2023-06-01" />
-  <meta property="article:published_time" content="2023-06-01" />
-  <meta name="dc.modified" content="2023-06-01T20:48:13+00:00" />
-  <meta property="article:modified_time" content="2023-06-01T20:48:13+00:00" />
+  <meta name="dc.date" content="2023-06-02" />
+  <meta name="citation_publication_date" content="2023-06-02" />
+  <meta property="article:published_time" content="2023-06-02" />
+  <meta name="dc.modified" content="2023-06-02T03:56:54+00:00" />
+  <meta property="article:modified_time" content="2023-06-02T03:56:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/981952b73510c76b5b8ffd8a2b0c9182c9c1536f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/981952b73510c76b5b8ffd8a2b0c9182c9c1536f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/981952b73510c76b5b8ffd8a2b0c9182c9c1536f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/478fccdc2efa39d8b3d021d6ac934af496d378da/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/478fccdc2efa39d8b3d021d6ac934af496d378da/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/478fccdc2efa39d8b3d021d6ac934af496d378da/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/981952b73510c76b5b8ffd8a2b0c9182c9c1536f/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/478fccdc2efa39d8b3d021d6ac934af496d378da/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@981952b](https://github.com/hwong23/fna-dd-f2-pry1/tree/981952b73510c76b5b8ffd8a2b0c9182c9c1536f)
-del June 1, 2023.
+[hwong23/fna-dd-f2-pry1@478fccd](https://github.com/hwong23/fna-dd-f2-pry1/tree/478fccdc2efa39d8b3d021d6ac934af496d378da)
+del June 2, 2023.
 </em></small>
 
-|    **Version** del producto 981952b del 01 Jun 2023
+|    **Version** del producto 478fccd del 02 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|981952b del 01 Jun 2023                              |
+|Versión|478fccd del 02 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -152,11 +152,10 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 ***
 
 
-| E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
-
-| FNA, Stefanini
-
-| **Version** 981952b del 01 Jun 2023
+> E-Service. Fase II. PRY01 Gobierno SOA. Contenido de los Productos Contractuales. Contrato 1812020
+> FNA, Stefanini
+>  
+> **Version** 478fccd del 02 Jun 2023
 
 <br>
 
@@ -192,7 +191,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|981952b del 01 Jun 2023|
+|Version|478fccd del 02 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
