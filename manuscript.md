@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-02" />
   <meta name="citation_publication_date" content="2023-06-02" />
   <meta property="article:published_time" content="2023-06-02" />
-  <meta name="dc.modified" content="2023-06-02T13:23:38+00:00" />
-  <meta property="article:modified_time" content="2023-06-02T13:23:38+00:00" />
+  <meta name="dc.modified" content="2023-06-02T13:28:21+00:00" />
+  <meta property="article:modified_time" content="2023-06-02T13:28:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/4060e03053a4cc9a4beedab9d5bb199329099c77/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4060e03053a4cc9a4beedab9d5bb199329099c77/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4060e03053a4cc9a4beedab9d5bb199329099c77/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/67cea9bc4c86d28b42a0d1f4ff4a0512264db9b4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/67cea9bc4c86d28b42a0d1f4ff4a0512264db9b4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/67cea9bc4c86d28b42a0d1f4ff4a0512264db9b4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/4060e03053a4cc9a4beedab9d5bb199329099c77/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/67cea9bc4c86d28b42a0d1f4ff4a0512264db9b4/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@4060e03](https://github.com/hwong23/fna-dd-f2-pry1/tree/4060e03053a4cc9a4beedab9d5bb199329099c77)
+[hwong23/fna-dd-f2-pry1@67cea9b](https://github.com/hwong23/fna-dd-f2-pry1/tree/67cea9bc4c86d28b42a0d1f4ff4a0512264db9b4)
 del June 2, 2023.
 </em></small>
 
-|    **Version** del producto 4060e03 del 02 Jun 2023
+|    **Versión** del producto 1.67cea9b del 02 Jun 2023
 
 
 
@@ -137,13 +137,13 @@ del June 2, 2023.
 Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de la arquitectura actual del FNA relacionados con el Gobierno SOA, objeto del proyecto.
 
 ##  Control de Cambios {.page_break_before}
-|Tema            |PRY01 Gobierno SOA FNA  |
-|----------------|---------------------------------------------------|
-|Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
-|Autor           |                                                   |
-|Fuente          |                                                   |
-|Versión|4060e03 del 02 Jun 2023                              |
-|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+| Tema           | PRY01 Gobierno SOA FNA                                                 |
+|----------------|------------------------------------------------------------------------|
+| Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
+| Autor          |                                                                        |
+| Fuente         |                                                                        |
+| Versión        | 1.67cea9b del 02 Jun 2023                                       |
+| Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
 
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
     
 >    02 Jun 2023
 >    
->    **Version** 4060e03
+>    **Version** 1.67cea9b
 
 <br>
     
@@ -198,7 +198,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 4060e03 del 02 Jun 2023                                                 |
+| Version        | 1.67cea9b del 02 Jun 2023                                               |
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -229,7 +229,7 @@ Tercero y último, facilita la justificación y los criterios con los que se rea
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 4060e03 del 02 Jun 2023                                                 |
+| Version        | 1.67cea9b del 02 Jun 2023                                               |
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -330,7 +330,7 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 4060e03 del 02 Jun 2023                                        |
+| Version        | 1.67cea9b del 02 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -382,21 +382,23 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 
 
 ## 3. Lista de Fases y Entregables del Proyecgto 1 (PRY01), Gobierno SOA
-|        | PRY01. Gobierno SOA                                                                    | Documentación |
-|------------|----------------------------------------------------------------------------------------|---------------|
-| Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |               |
-|        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |               |
-| Fase 1 | PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA    |               |
-|        | PR03. Diseño de los procesos y responsabilidades del comité de gobierno                |               |
-| Fase 2 | PR04. Definición de roles y responsabilidades y selección e instalación del comité     |               |
-|        | PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos              |               |
-| Fase 3 | PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto     |               |
-| Fase 4 | PR07. Métricas de efectividad del gobierno                                             |               |
-| A      | Generar lineamientos y políticas de gobierno SOA                                       |               |
-|        | Aplicar y fortalecer gobierno SOA en el FNA                                            |               |
-|        | Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA |               |
+|        | PRY01. Gobierno SOA                                                                    |
+|--------|----------------------------------------------------------------------------------------|
+| Fase 0 | PR01. Detalle de los ítems de arquitectura impactados por el proyecto                  |
+|        | PR01.1. Aprobación de inicio y personal FNA asignado Gobierno SOA                      |
+| Fase 1 | PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA    |
+|        | PR03. Diseño de los procesos y responsabilidades del comité de gobierno                |
+| Fase 2 | PR04. Definición de roles y responsabilidades y selección e instalación del comité     |
+|        | PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos              |
+| Fase 3 | PR06. Modelos actualizados de los ítems de arquitectura impactados por el proyecto     |
+| Fase 4 | PR07. Métricas de efectividad del gobierno                                             |
+| A      | Generar lineamientos y políticas de gobierno SOA                                       |
+|        | Aplicar y fortalecer gobierno SOA en el FNA                                            |
+|        | Medir las decisiones de arquitectura y del proceso de desarrollo de las soluciones SOA |
 
 <br>
+
+***
 
 
 
