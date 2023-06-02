@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-02" />
   <meta name="citation_publication_date" content="2023-06-02" />
   <meta property="article:published_time" content="2023-06-02" />
-  <meta name="dc.modified" content="2023-06-02T13:07:02+00:00" />
-  <meta property="article:modified_time" content="2023-06-02T13:07:02+00:00" />
+  <meta name="dc.modified" content="2023-06-02T13:15:50+00:00" />
+  <meta property="article:modified_time" content="2023-06-02T13:15:50+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/80c13488bf796fca4dc8405adf663e6ba0e1793d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/80c13488bf796fca4dc8405adf663e6ba0e1793d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/80c13488bf796fca4dc8405adf663e6ba0e1793d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/639fffb49e40c78130b8088f3da7854c3dc92e53/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/639fffb49e40c78130b8088f3da7854c3dc92e53/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/639fffb49e40c78130b8088f3da7854c3dc92e53/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/80c13488bf796fca4dc8405adf663e6ba0e1793d/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/639fffb49e40c78130b8088f3da7854c3dc92e53/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@80c1348](https://github.com/hwong23/fna-dd-f2-pry1/tree/80c13488bf796fca4dc8405adf663e6ba0e1793d)
+[hwong23/fna-dd-f2-pry1@639fffb](https://github.com/hwong23/fna-dd-f2-pry1/tree/639fffb49e40c78130b8088f3da7854c3dc92e53)
 del June 2, 2023.
 </em></small>
 
-|    **Version** del producto 80c1348 del 02 Jun 2023
+|    **Version** del producto 639fffb del 02 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|80c1348 del 02 Jun 2023                              |
+|Versión|639fffb del 02 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
     
 >    02 Jun 2023
 >    
->    **Version** 80c1348
+>    **Version** 639fffb
 
 <br>
     
@@ -198,7 +198,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|80c1348 del 02 Jun 2023|
+|Version|639fffb del 02 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -223,18 +223,13 @@ Tercero y último, facilita la justificación y los criterios con los que se rea
 <br>
 
 ## Justificación de los Ítems de Arquitectura Impactados por el Proyecto
-En función a los resultados de los diagnósticos de E-Service, Fase Idel, específicamente de la evaluación de madurez de las dimensiones de arquitectura para el FNA, Negocio, Organización y Gobierno,
-Método, Aplicaciones, Arquitectura, Información e Infraestructura; el FNA se encuentra en un nivel de madurez **REACTIVO** asociado a 
-una gestión de información en modo aislado según las necesidades de cada área/sistema y por otra parte se encuentran soluciones específicas
-para demandas puntuales.
+En función a los resultados de los diagnósticos de E-Service, Fase I, específicamente de la evaluación de madurez de SOA del FNA, Negocio, Organización y Gobierno, Método, Aplicaciones, Arquitectura, Información e Infraestructura; el FNA se encuentra en un nivel de madurez **REACTIVO** asociado a una gestión de información en modo aislado según las necesidades de cada área/sistema y por otra parte se encuentran soluciones específicas para demandas puntuales.
 
-En ese sentido, se hace necesario impactar los procesos que mayor presentan estas problemáticas en el Fondo, en función de mejorar la calidad de los servicios que presta, y en cumplimiento tanto de negocio (vicepresidencias de Crédito y vicepresidencia de Operaciones), como del marco normativo y evolución tecnológica que establece la _Política de Gobierno Digital_
-del Ministerio de Tecnologías de la Información y las Comunicaciones. Y dentro de esos procesos misionales, las actividades asociadas a _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_, constituyen elementos que habilitan al FNA, para una adecuada ruta de calidad de servicio y generación de valor para los interesados.
+En ese sentido, se hace necesario impactar los procesos que mayor presentan estas problemáticas en el Fondo, en función de mejorar la calidad de los servicios que presta, y en cumplimiento tanto de negocio (vicepresidencias de Crédito y vicepresidencia de Operaciones), como del marco normativo y evolución tecnológica que establece la _Política de Gobierno Digital_ del Ministerio de Tecnologías de la Información y las Comunicaciones. Y dentro de esos procesos misionales, las actividades asociadas a _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_, constituyen elementos que habilitan al FNA, para una adecuada ruta de calidad de servicio y generación de valor para los interesados.
 
 Estos elementos son abordados en el periodo de tiempo establecido para el ejercicio del proyecto, esto es _dos meses_, y con el equipo de trabajo presentado para su desarrollo.
 
-Por otra parte; se hace necesario establecer los artefactos que son relevantes para la Entidad, en función de su misionalidad y las demandas 
-de los interesados **ciudadanos**
+Por otra parte; se hace necesario establecer los artefactos que son relevantes para la Entidad, en función de su misionalidad y las demandas de los interesados **ciudadanos**
 
 ## Descripción de los elementos de la vista de segmento
 
@@ -316,6 +311,19 @@ Este componente está orientado a la instauración del Gobierno de Arquitectura;
 
 Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_.
 
+
+
+| Tema           | Flujos Críticos de Trabajo FNA: **Elementos Susceptibles de Gobierno en el FNA**  |
+|----------------|-----------------------------------------------------------------------------------|
+| Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                                          |
+| Autor          |                                                                                   |
+| Fuente         | Elaboración propia                                                                |
+| Version        | 639fffb del 02 Jun 2023                                                    |
+| Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
+
+<br>
+
+# Flujos Críticos Susceptibles de Gobierno FNA
 
 
 ***
