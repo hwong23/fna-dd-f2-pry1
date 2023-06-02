@@ -38,6 +38,7 @@ __pycache__/
 ## Windows
 Thumbs.db
 [Dd]esktop.ini
+~*
 
 ## Text Editors
 .vscode
