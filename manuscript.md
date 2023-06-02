@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-02" />
   <meta name="citation_publication_date" content="2023-06-02" />
   <meta property="article:published_time" content="2023-06-02" />
-  <meta name="dc.modified" content="2023-06-02T13:15:50+00:00" />
-  <meta property="article:modified_time" content="2023-06-02T13:15:50+00:00" />
+  <meta name="dc.modified" content="2023-06-02T13:23:38+00:00" />
+  <meta property="article:modified_time" content="2023-06-02T13:23:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/639fffb49e40c78130b8088f3da7854c3dc92e53/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/639fffb49e40c78130b8088f3da7854c3dc92e53/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/639fffb49e40c78130b8088f3da7854c3dc92e53/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/4060e03053a4cc9a4beedab9d5bb199329099c77/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4060e03053a4cc9a4beedab9d5bb199329099c77/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4060e03053a4cc9a4beedab9d5bb199329099c77/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/639fffb49e40c78130b8088f3da7854c3dc92e53/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/4060e03053a4cc9a4beedab9d5bb199329099c77/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@639fffb](https://github.com/hwong23/fna-dd-f2-pry1/tree/639fffb49e40c78130b8088f3da7854c3dc92e53)
+[hwong23/fna-dd-f2-pry1@4060e03](https://github.com/hwong23/fna-dd-f2-pry1/tree/4060e03053a4cc9a4beedab9d5bb199329099c77)
 del June 2, 2023.
 </em></small>
 
-|    **Version** del producto 639fffb del 02 Jun 2023
+|    **Version** del producto 4060e03 del 02 Jun 2023
 
 
 
@@ -137,12 +137,12 @@ del June 2, 2023.
 Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de la arquitectura actual del FNA relacionados con el Gobierno SOA, objeto del proyecto.
 
 ##  Control de Cambios {.page_break_before}
-|Tema            |Portafolio de iniciativas y brechas: **Hoja de ruta de los proyectos de cierre de brecha E-Service**|
+|Tema            |PRY01 Gobierno SOA FNA  |
 |----------------|---------------------------------------------------|
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|639fffb del 02 Jun 2023                              |
+|Versión|4060e03 del 02 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
     
 >    02 Jun 2023
 >    
->    **Version** 639fffb
+>    **Version** 4060e03
 
 <br>
     
@@ -193,12 +193,12 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 *** 
 
 
-|Tema|Vista de Contexto: **Elementos de la Arquitectura Impactados por el Proyecto**|
-|----|-----------------------------------------------------------------------|
-|Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
-|Autor| |
-|Fuente| |
-|Version|639fffb del 02 Jun 2023|
+| Tema           | Vista de Contexto: **Elementos de la Arquitectura Impactados por el Proyecto** |
+|----------------|--------------------------------------------------------------------------------|
+| Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
+| Autor          |                                                                                |
+| Fuente         |                                                                                |
+| Version        | 4060e03 del 02 Jun 2023                                                 |
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -219,6 +219,18 @@ _Fuente: Elaboración propia._
 Esta vista le informa al FNA tres objetivos importates. Primero, que el ejercicio actual, de gobierno SOA en esta caso, aunque sea de caracter empresarial está condicionada por las restricciones del proyecto presente, no puede por esto mismo abarcar a la completitud de la empresa. Por esta razón el segmento presentado en la imagen arriba hace foco en las partes que son relevantes según las restricciones de ejecución y resultados esperados de este proyecto. Segundo, la vista de contexto comunica las problemáticas y operaciones (en forma de trabajo, al final de la vista) que se deberán realizar para producir una solución esperada e los términos del proyecto, que en esta caso es de Gobierno SOA.
 
 Tercero y último, facilita la justificación y los criterios con los que se realizó la inclusión de los ítems que en ella figuran.
+
+<br>
+
+
+
+| Tema           | Justificación Segmento Empresa FNA: **Elementos de la Arquitectura Impactados por el Proyecto** |
+|----------------|--------------------------------------------------------------------------------|
+| Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
+| Autor          |                                                                                |
+| Fuente         |                                                                                |
+| Version        | 4060e03 del 02 Jun 2023                                                 |
+|Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
 
@@ -314,11 +326,11 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 
 
 | Tema           | Flujos Críticos de Trabajo FNA: **Elementos Susceptibles de Gobierno en el FNA**  |
-|----------------|-----------------------------------------------------------------------------------|
-| Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                                          |
-| Autor          |                                                                                   |
-| Fuente         | Elaboración propia                                                                |
-| Version        | 639fffb del 02 Jun 2023                                                    |
+|----------------|-----------------------------------------------------------------------|
+| Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
+| Autor          |                                                                       |
+| Fuente         | Elaboración propia                                                    |
+| Version        | 4060e03 del 02 Jun 2023                                        |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
