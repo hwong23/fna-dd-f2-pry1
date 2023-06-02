@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/hwong23/fna-dd-f2-pry1/tree/gh-pages) branch hosts the contents of this directory at <https://hwong23.github.io/fna-dd-f2-pry1/>.
-The permalink for this webpage version is <https://hwong23.github.io/fna-dd-f2-pry1/v/fbd5eed024a5505d3f5d2079d1261c720b0475b8/>.
+The permalink for this webpage version is <https://hwong23.github.io/fna-dd-f2-pry1/v/d23e690263ffe5c84148a6350334ff5594582084/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://hwong23.github.io/fna-dd-f2-pry1/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`fbd5eed024a5505d3f5d2079d1261c720b0475b8`](https://github.com/hwong23/fna-dd-f2-pry1/commit/fbd5eed024a5505d3f5d2079d1261c720b0475b8).
+[`d23e690263ffe5c84148a6350334ff5594582084`](https://github.com/hwong23/fna-dd-f2-pry1/commit/d23e690263ffe5c84148a6350334ff5594582084).
