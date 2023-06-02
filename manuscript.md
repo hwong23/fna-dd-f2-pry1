@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-02" />
   <meta name="citation_publication_date" content="2023-06-02" />
   <meta property="article:published_time" content="2023-06-02" />
-  <meta name="dc.modified" content="2023-06-02T05:47:56+00:00" />
-  <meta property="article:modified_time" content="2023-06-02T05:47:56+00:00" />
+  <meta name="dc.modified" content="2023-06-02T05:53:33+00:00" />
+  <meta property="article:modified_time" content="2023-06-02T05:53:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/3ac1db99bf3f18332db21438dc8874527fcef79e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/3ac1db99bf3f18332db21438dc8874527fcef79e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/3ac1db99bf3f18332db21438dc8874527fcef79e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/db98977fbdcf427dfd6527a47500b4a0ce7d94b4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/db98977fbdcf427dfd6527a47500b4a0ce7d94b4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/db98977fbdcf427dfd6527a47500b4a0ce7d94b4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/3ac1db99bf3f18332db21438dc8874527fcef79e/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/db98977fbdcf427dfd6527a47500b4a0ce7d94b4/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@3ac1db9](https://github.com/hwong23/fna-dd-f2-pry1/tree/3ac1db99bf3f18332db21438dc8874527fcef79e)
+[hwong23/fna-dd-f2-pry1@db98977](https://github.com/hwong23/fna-dd-f2-pry1/tree/db98977fbdcf427dfd6527a47500b4a0ce7d94b4)
 del June 2, 2023.
 </em></small>
 
-|    **Version** del producto 3ac1db9 del 02 Jun 2023
+|    **Version** del producto db98977 del 02 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 |Palabras clave  |SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Versión|3ac1db9 del 02 Jun 2023                              |
+|Versión|db98977 del 02 Jun 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -153,11 +153,16 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 
     E-Service. Fase II
+
     PRY01 Gobierno SOA. Contenido de los Productos Contractuales
+    
     Contrato 1812020
+    
     FNA, Stefanini
+    
     02 Jun 2023
-    **Version** 3ac1db9
+    
+    **Version** db98977
 
 <br>
     
@@ -193,7 +198,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor| |
 |Fuente| |
-|Version|3ac1db9 del 02 Jun 2023|
+|Version|db98977 del 02 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
