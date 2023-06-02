@@ -9,7 +9,7 @@ To redirect to the permalink for the latest manuscript version at anytime, use t
 This directory contains the following files, which are mostly ignored on the `main` branch:
 
 + [`index.html`](index.html) is an HTML manuscript.
-+ [`FNA-manuscript.pdf`](FNA-manuscript.pdf) is a PDF manuscript.
++ [`manuscript.pdf`](manuscript.pdf) is a PDF manuscript.
 
 The `v` directory contains directories for each manuscript version.
 In general, a version is identified by the commit hash of the source content that created it.

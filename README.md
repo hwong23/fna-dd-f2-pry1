@@ -3,7 +3,7 @@
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://hwong23.github.io/fna-dd-f2-pry1/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://hwong23.github.io/fna-dd-f2-pry1/FNA-manuscript.pdf)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/hwong23/fna-dd-f2-pry1/workflows/Manubot/badge.svg)](https://github.com/hwong23/fna-dd-f2-pry1/actions)
 
 ## Manuscript description
@@ -24,7 +24,7 @@ When a commit to the `main` branch occurs (for example, when a pull request is m
 The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
 
 + **HTML manuscript** at https://hwong23.github.io/fna-dd-f2-pry1/
-+ **PDF manuscript** at https://hwong23.github.io/fna-dd-f2-pry1/FNA-manuscript.pdf
++ **PDF manuscript** at https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf
 
 For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml).
 

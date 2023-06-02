@@ -87,7 +87,7 @@ if [ "${BUILD_PDF}" != "false" ] && [ "${MANUBOT_USE_DOCKER}" == "true" ]; then
     athenapdf \
     --delay=${MANUBOT_ATHENAPDF_DELAY:-1100} \
     --pagesize=A4 \
-    manuscript.html FNA-manuscript.pdf
+    manuscript.html manuscript.pdf
   rm -rf output/images
 fi
 
