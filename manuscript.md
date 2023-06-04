@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-04" />
   <meta name="citation_publication_date" content="2023-06-04" />
   <meta property="article:published_time" content="2023-06-04" />
-  <meta name="dc.modified" content="2023-06-04T03:25:38+00:00" />
-  <meta property="article:modified_time" content="2023-06-04T03:25:38+00:00" />
+  <meta name="dc.modified" content="2023-06-04T03:29:48+00:00" />
+  <meta property="article:modified_time" content="2023-06-04T03:29:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/3dc671d8cd197560c3cc50ef0fe5f2f16c3c86eb/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/3dc671d8cd197560c3cc50ef0fe5f2f16c3c86eb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/3dc671d8cd197560c3cc50ef0fe5f2f16c3c86eb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/4d7ba7d8305891129b1515b95a3ddc9755bd24ac/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4d7ba7d8305891129b1515b95a3ddc9755bd24ac/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4d7ba7d8305891129b1515b95a3ddc9755bd24ac/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/3dc671d8cd197560c3cc50ef0fe5f2f16c3c86eb/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/4d7ba7d8305891129b1515b95a3ddc9755bd24ac/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[hwong23/fna-dd-f2-pry1@3dc671d](https://github.com/hwong23/fna-dd-f2-pry1/tree/3dc671d8cd197560c3cc50ef0fe5f2f16c3c86eb)
+[hwong23/fna-dd-f2-pry1@4d7ba7d](https://github.com/hwong23/fna-dd-f2-pry1/tree/4d7ba7d8305891129b1515b95a3ddc9755bd24ac)
 del June 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.3dc671d del 04 Jun 2023
+|    **Versión** del producto 1.4d7ba7d del 04 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.3dc671d del 04 Jun 2023                                       |
+| Versión        | 1.4d7ba7d del 04 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -152,18 +152,18 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 ***
 
 
-<br>
-    · E-Service. Fase II
-<br>
-    · PRY01 Gobierno SOA. Contenido de los Productos Contractuales
-<br>
-    · Contrato 1812020
-<br>
-    · FNA, Stefanini<
-<br>
-    · 04 Jun 2023<
-<br>
-    · **Version** 1.3dc671d
+|   E-Service. Fase II
+
+|   PRY01 Gobierno SOA. Contenido de los Productos Contractuales
+
+|   Contrato 1812020
+
+|   FNA, Stefanini<
+
+|   04 Jun 2023<
+|
+|   **Version** 1.4d7ba7d
+
 <br>
 
 # Producto 1: PR01. Detalle de los ítems de arquitectura impactados por el proyecto 
@@ -198,7 +198,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.3dc671d del 04 Jun 2023                                               |
+| Version        | 1.4d7ba7d del 04 Jun 2023                                               |
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -229,7 +229,7 @@ Tercero y último, facilita la justificación y los criterios con los que se rea
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Version        | 1.3dc671d del 04 Jun 2023                                       |
+| Version        | 1.4d7ba7d del 04 Jun 2023                                       |
 |Vínculos|[Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -306,20 +306,17 @@ soluciones, integra habilidades del FNA, orientadas principalmente a:
 Estos elementos y características, corresponderán a los atributos del proceso ** Diseño de Servicios y Soluciones FNA **, de la vista de segmento
 del FNA.
 
+<br>
+
 ### Verificación y Calidad de Implementación
 
 Este componente dentro de la vista de arquitectura de segmento, define el éxito del diseño de servicios y soluciones, debido a la consideración
 de buenas prácticas, cumplimiento de normas y un adecuado gobierno en la etapa de diseño, hasta llegar a la implementación y puesta en funcionamiento.
 
-La **Verificación y Calidad de Implementación** dentro de la arquitectura de segmento, asegura que el diseño tuvo una planificación adecuada, un
-equipo de trabajo con las competencias necesarias, una comunicación acertiva, un modelo de desarrollo y ejecución de pruebas, un mecanismo gradual de
-implementación, las respectivas capacitaciones, los requerimientos de seguridad y privacidad y la generación de hábitos y comportamientos a través del
-uso y apropiación de la solución desplegada.
+La verificación y calidad de implementación dentro de la arquitectura de segmento, asegura que el diseño tuvo una planificación adecuada, un equipo de trabajo con las competencias necesarias, una comunicación acertiva, un modelo de desarrollo y ejecución de pruebas, un mecanismo gradual de
+implementación, las respectivas capacitaciones, los requerimientos de seguridad y privacidad y la generación de hábitos y comportamientos a través del uso y apropiación de la solución desplegada.
 
-Lo anterior sugiere los niveles de actuación de un gobierno; **Gobierno SOA**
-
-Dentro del alcance de esta fase del proyecto, se contempla el diseño del Gobierno SOA, compuesto por elementos con
-líneas de actuación en completa articulación; los resultados de uno, impactan los resultados y el accionar de los demás.
+Dentro del alcance de esta fase del proyecto, se contempla el diseño del Gobierno SOA, compuesto por elementos con líneas de actuación en completa articulación; los resultados de uno, impactan los resultados y el accionar de los demás.
 
 Estos elementos que se relacionan a continuación:
  
@@ -355,7 +352,7 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.3dc671d del 04 Jun 2023                                      |
+| Version        | 1.4d7ba7d del 04 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -404,6 +401,7 @@ Por lo anterior, los servicios SOA del FNA más relevantes según los modelos so
 
 _Fuente: Diagnóstico SOA. E-Service (2022)_
 
+<br>
 
 
 ## 3. Lista de Fases y Entregables del Proyecgto 1 (PRY01), Gobierno SOA
@@ -437,7 +435,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 
 >    04 Jun 2023
 >
->    **Version** 3dc671d
+>    **Version** 4d7ba7d
 
 
 # Producto 2: PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
