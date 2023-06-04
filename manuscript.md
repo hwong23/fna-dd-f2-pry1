@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-04" />
   <meta name="citation_publication_date" content="2023-06-04" />
   <meta property="article:published_time" content="2023-06-04" />
-  <meta name="dc.modified" content="2023-06-04T21:44:08+00:00" />
-  <meta property="article:modified_time" content="2023-06-04T21:44:08+00:00" />
+  <meta name="dc.modified" content="2023-06-04T21:46:29+00:00" />
+  <meta property="article:modified_time" content="2023-06-04T21:46:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/e981639e654454ca39becd4345aa28e300b08312/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e981639e654454ca39becd4345aa28e300b08312/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e981639e654454ca39becd4345aa28e300b08312/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/3b53a8be3d34380f821a62629002c17cee441bfd/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/3b53a8be3d34380f821a62629002c17cee441bfd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/3b53a8be3d34380f821a62629002c17cee441bfd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/e981639e654454ca39becd4345aa28e300b08312/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/3b53a8be3d34380f821a62629002c17cee441bfd/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@e981639](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@3b53a8b](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.e981639 del 04 Jun 2023
+|    **Versión** del producto 1.3b53a8b del 04 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.e981639 del 04 Jun 2023                                       |
+| Versión        | 1.3b53a8b del 04 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    04 Jun 2023
 >
->    **Versión** 1.e981639
+>    **Versión** 1.3b53a8b
 
 <br>
 
@@ -198,7 +198,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.e981639 del 04 Jun 2023                                               |
+| Version        | 1.3b53a8b del 04 Jun 2023                                               |
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -237,10 +237,8 @@ elementos.
 
 <br>
 
-
 ### PROC4. Diseño de Servicios y Soluciones FNA
-El diseño de servicios y soluciones, constituye una competencia a desarrollar y madurar al interior del FNA, en concordancia con las recomendaciones de los marcos de referencia: _e-Competence Framework (e-CF)—A common European Framework for ICT Professionals in all industry sectors—Part 1: Framework, 2016_
-en los cuales la etapa de diseño está alineada con los requisitos de los servicios demandados por los interesados, su posterior desarrollo, la adquisición o contratación y el gobierno que se hace necesario implementar para soportar la operación:
+El diseño de servicios y soluciones, constituye una competencia a desarrollar y madurar al interior del FNA, en concordancia con las recomendaciones de los marcos de referencia: _e-Competence Framework (e-CF)—A common European Framework for ICT Professionals in all industry sectors—Part 1: Framework, 2016_ en los cuales la etapa de diseño está alineada con los requisitos de los servicios demandados por los interesados, su posterior desarrollo, la adquisición o contratación y el gobierno que se hace necesario implementar para soportar la operación:
 
 * Gestión de la configuración
 * Preparación y ejecución de pruebas
@@ -248,11 +246,9 @@ en los cuales la etapa de diseño está alineada con los requisitos de los servi
 * Atención de problemas
 * Atención de incidentes
 
-El Diseño de Servicios y Soluciones, garantiza una prestación ágil y escalable de servicios y soluciones digitales del FNA, además de oportunas y
-rentables, capaces de apoyar los objetivos trazados en la vista de segmento de esta estapa del proyecto.
+El Diseño de Servicios y Soluciones, garantiza una prestación ágil y escalable de servicios y soluciones digitales del FNA, además de oportunas y rentables, capaces de apoyar los objetivos trazados en la vista de segmento de esta estapa del proyecto.
 
-Estas soluciones digitales pueden adoptar varias formas, desde aplicaciones móviles, plataformas en línea, software personalizado,
-y sistemas de gestión empresarial, entre otros.
+Estas soluciones digitales pueden adoptar varias formas, desde aplicaciones móviles, plataformas en línea, software personalizado, y sistemas de gestión empresarial, entre otros.
 
 Por otra parte y en articulación al Marco para la Transformación Digital del Estado Colombiano, del MinTIC, el diseño de servicios y soluciones, integra habilidades del FNA, orientadas principalmente a lo siguiente.
 
@@ -260,8 +256,7 @@ Por otra parte y en articulación al Marco para la Transformación Digital del E
 * Solución de problemas complejos a través de la Innovación
 * Diseños Ágiles desde la perspectiva de salida a producción y con un adecuado uso de recursos
 
-Estos elementos y características, corresponderán a los atributos del proceso ** Diseño de Servicios y Soluciones FNA **, de la vista de segmento
-del FNA.
+Estos elementos y características, corresponderán a los atributos del proceso Diseño de Servicios y Soluciones FNA, de la vista de segmento del FNA.
 
 ### PROC5. Verificación y Calidad de Implementación
 Este componente dentro de la vista de arquitectura de segmento, define el éxito del diseño de servicios y soluciones, debido a la consideración de buenas prácticas, cumplimiento de normas y un adecuado gobierno en la etapa de diseño, hasta llegar a la implementación y puesta en funcionamiento.
@@ -306,7 +301,7 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Version        | 1.e981639 del 04 Jun 2023                                                                                                                                                  |
+| Version        | 1.3b53a8b del 04 Jun 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -351,7 +346,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.e981639 del 04 Jun 2023                                      |
+| Version        | 1.3b53a8b del 04 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -556,7 +551,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 
 >    04 Jun 2023
 >
->    **Versión** 1.e981639
+>    **Versión** 1.3b53a8b
 
 <br>
 
