@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-04'
+date-meta: '2023-06-05'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
   <meta property="og:title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
   <meta property="twitter:title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
-  <meta name="dc.date" content="2023-06-04" />
-  <meta name="citation_publication_date" content="2023-06-04" />
-  <meta property="article:published_time" content="2023-06-04" />
-  <meta name="dc.modified" content="2023-06-04T21:48:14+00:00" />
-  <meta property="article:modified_time" content="2023-06-04T21:48:14+00:00" />
+  <meta name="dc.date" content="2023-06-05" />
+  <meta name="citation_publication_date" content="2023-06-05" />
+  <meta property="article:published_time" content="2023-06-05" />
+  <meta name="dc.modified" content="2023-06-05T01:36:06+00:00" />
+  <meta property="article:modified_time" content="2023-06-05T01:36:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/a8f34238d71100dfecf9eda52bbb7a7cec5164ed/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a8f34238d71100dfecf9eda52bbb7a7cec5164ed/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a8f34238d71100dfecf9eda52bbb7a7cec5164ed/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/6a60ca4d7170d09c935f48efa4ca42baf4bd2b8d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/6a60ca4d7170d09c935f48efa4ca42baf4bd2b8d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/6a60ca4d7170d09c935f48efa4ca42baf4bd2b8d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/a8f34238d71100dfecf9eda52bbb7a7cec5164ed/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/6a60ca4d7170d09c935f48efa4ca42baf4bd2b8d/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@a8f3423](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del June 4, 2023.
+[Sharepoint STEF@6a60ca4](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del June 5, 2023.
 </em></small>
 
-|    **Versión** del producto 1.a8f3423 del 04 Jun 2023
+|    **Versión** del producto 1.6a60ca4 del 05 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.a8f3423 del 04 Jun 2023                                       |
+| Versión        | 1.6a60ca4 del 05 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -160,9 +160,9 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    FNA, Stefanini
 
->    04 Jun 2023
+>    05 Jun 2023
 >
->    **Versión** 1.a8f3423
+>    **Versión** 1.6a60ca4
 
 <br>
 
@@ -198,7 +198,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.a8f3423 del 04 Jun 2023                                               |
+| Version        | 1.6a60ca4 del 05 Jun 2023                                               |
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -301,7 +301,7 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Version        | 1.a8f3423 del 04 Jun 2023                                                                                                                                                  |
+| Version        | 1.6a60ca4 del 05 Jun 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -346,7 +346,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.a8f3423 del 04 Jun 2023                                      |
+| Version        | 1.6a60ca4 del 05 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -390,13 +390,12 @@ El consumidor financiero del FNA, se acerca a los puntos de atención para retir
 Los registros de biometria son entregados por el operador biometrico a traves de correo electronico al usuario lider del area 
 
 ### Arquitectura
-- paso 1 cobis envia un ID al operador biometrico 
-- paso 2 el operador biometrico responde el ID 
-- paso 3 El operador levanta el servicio 
-- paso 4 El aplicativo core envía la petición de biometria 
-- el operador biometrico responde con un hit o no hit (hit que quiere decir que la persona es quien dice ser, no hit no es quien dice ser)
+1. cobis envia un ID al operador biometrico 
+1. el operador biometrico responde el ID 
+1. El operador levanta el servicio 
+1. El aplicativo core envía la petición de biometria - el operador biometrico responde con un hit o no (hit: la persona es quien dice ser)
 
-Notas: excepcion de los casos de uso, exhaustividad de las pruebas, la confiabilidad de las pruebas, Malla de calidad de las pruebas, fortalecimiento de diseño, categoria: Alta 
+**Notas**: excepcion de los casos de uso, exhaustividad de las pruebas, la confiabilidad de las pruebas, Malla de calidad de las pruebas, fortalecimiento de diseño, categoria: Alta 
 caso de uso: excepciones.
 
 ### Valor
@@ -428,7 +427,7 @@ Riesgos tecnicos. Inversion de tecnología. Un objetivo del Gobierno SOA es la e
 
 | CCF                |     |
 |--------------------|-----|
-| Cliente destino:   | Fondo Nacional del Ahorro 
+| Cliente destino:   | Fondo Nacional del Ahorro
 | Producto/Servicio: | Inversión TI 
 
 <br>
@@ -442,38 +441,24 @@ Nota: para la evaluación de las inversiones usaremos dos parámetros: 1. efecti
     Rubros mas costosos 
 
 ### Petición
-_Guía: Los registros de biometria son entregados por el operador biometrico a traves de correo electronico al usuario lider del area 
+Diligencia el formato de la necesidad al grupo de contratacion, y radicar la solicitud a contratacion. Registro en SECOP(2) el procesos publico y finalmente queda la minuta del contrato.
 
 ### Arquitectura
-1 se diligencia el formato de la necesidad al grupo de contratacion 
-2.contratacion da la respuesta si es por contratacion directa o se debe hacer estudio de mercado 
-3 si es por contratacion directa es por que no hay otro oferente en el mercado, o por que el monto no supera los 300 millones
-4 si es por estudio de mercado, toca llenar los formatos de estudio de la necesidad, anexo tecnico y formato de ans 
-5 se radica la solicitud a contratacion 
-6. se monta al secop el procesos publico 
-7 se solicita cotizacion a los proveedores
-8 los proveedores entregan cotizacion 
-9 se responden preguntas de los proveedores en el proceso 
-10 los proveedores entregan las cotizaciones
-11 contratacion entrega resultado de estudio de mercado 
-12 la vicepresidencia de tecnologia con el estudio entregado previamente por contratacion radica solicitud a contratacion 
-13 contratacion publica proceso en secop 
-14 se resuelven preguntas tecnicas del proceso a los proveedores 
-15 se reciben cotizaciones de los proveedores 
-16 de acuerdo a las reglas de participacion contratacion habilita a los oferentes opcionados 
-17 de acuerdo a los pieglos de establece el mecanismo de asignacion del contrato de ti 
-18 en algunas ocasiones aplica subasta en otras se asigna de acuerdo a mejor puntaje dependiendo de los pliegos 
-19 se asigna el contrato al proveedor ganador 
-20 se crea la minuta del contrato 
-21 se firma la minuta 
-22 se asigna el contrato a un apoyo a la supervision de ti 
-23 de establecen planes de trabajo para la implementacion o integracion de las soluciones contratadas
-24 se implementa la solucion en produccion 
-25 se entrega la operacion al grupo de soporte para gestion del dia a dia 
+1. implementa la solucion en produccion 
+1. entrega la operacion al grupo de soporte para gestion del dia a dia
+1. cada fábrica tiene un grupo de soporte y mantenimiento para soportes e incidencias y otro para desarollo y nuevas funcionalidades.
 
-Cada fábrica tiene un grupo de soporte y mantenimiento para soportes e incidencias y otro para desarollo y nuevas funcionalidades.
+### Valor
+No determinado. Al momento de la realización de este flujo no encontramos el procedimiento o instrumento, o persona que calcula del valor retornado de la inversión de TI al FNA.
 
+### Seguimiento
+No determinado. Al momento de la realización de este flujo no encontramos el procedimiento o instrumento, o persona que calcula del valor retornado de la inversión de TI al FNA.
 
+### Entrega
+Una vez realizada la implementa de la inversión TI, la solucion en produccion es entregada en operacion al grupo de soporte del FNA.
+
+### Repetición
+El flujo es repetible en virtud de la Ley 80.
 
 
 ***
@@ -549,9 +534,9 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 
 >    FNA, Stefanini
 
->    04 Jun 2023
+>    05 Jun 2023
 >
->    **Versión** 1.a8f3423
+>    **Versión** 1.6a60ca4
 
 <br>
 
