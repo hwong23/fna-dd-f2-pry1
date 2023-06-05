@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-05" />
   <meta name="citation_publication_date" content="2023-06-05" />
   <meta property="article:published_time" content="2023-06-05" />
-  <meta name="dc.modified" content="2023-06-05T17:57:17+00:00" />
-  <meta property="article:modified_time" content="2023-06-05T17:57:17+00:00" />
+  <meta name="dc.modified" content="2023-06-05T18:05:46+00:00" />
+  <meta property="article:modified_time" content="2023-06-05T18:05:46+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/bf714638e45721dc5e36f9f37c937a40b2909c62/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/bf714638e45721dc5e36f9f37c937a40b2909c62/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/bf714638e45721dc5e36f9f37c937a40b2909c62/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/4fc255dd21066f97fab1c8c56dbb9651a0f0b2c6/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4fc255dd21066f97fab1c8c56dbb9651a0f0b2c6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/4fc255dd21066f97fab1c8c56dbb9651a0f0b2c6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/bf714638e45721dc5e36f9f37c937a40b2909c62/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/4fc255dd21066f97fab1c8c56dbb9651a0f0b2c6/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@bf71463](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@4fc255d](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 5, 2023.
 </em></small>
 
-|    **Versión** del producto 1.bf71463 del 05 Jun 2023
+|    **Versión** del producto 1.4fc255d del 05 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.bf71463 del 05 Jun 2023                                       |
+| Versión        | 1.4fc255d del 05 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    05 Jun 2023
 >
->    **Versión** 1.bf71463
+>    **Versión** 1.4fc255d
 
 <br>
 
@@ -207,7 +207,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.bf71463 del 05 Jun 2023                                               |
+| Version        | 1.4fc255d del 05 Jun 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); 
                    [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
@@ -317,7 +317,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Version        | 1.bf71463 del 05 Jun 2023                                                                                                                                                  |
+| Version        | 1.4fc255d del 05 Jun 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com), [Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -357,7 +357,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.bf71463 del 05 Jun 2023                                      |
+| Version        | 1.4fc255d del 05 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -380,6 +380,15 @@ Para facilitar la recolección de los flujos críticos, presentamos la siguiente
 * Repetición: consideaciones de mejora.
 
 **Nota**: para más información del uso y apropiación de la herramienta Flujo Crítifo de Trabajo, ver el anexo _CCF_, más adelante.
+
+<br>
+
+## Análisis de los Flujos de Trabajo
+Los flujos serán analizados desde tres perspectivas ilustradas a continuación.
+
+![Análisis de los flujos desde los pasos, las personas y la arquitectura FNA](images/definirgobierno.png){#fig: width=lin}
+
+_Fuente: Elaboración propia._
 
 <br>
 
@@ -469,13 +478,14 @@ Existen tres responsabilidades claras que participan y sostienen a este flujo. P
 ### Asignación de Arquitectura
 En la siguiente tabla realizaremos las asignaciones de las actividaes/respomsabilidades con las partes de la arquitectura del FNA que son relevantes para el gobierno.
 
+```md
 | Arquitectura      | Descripción                                             | Actividad    | Responsable |
 |-------------------|---------------------------------------------------------|--------------|-------------|
 | ERP Cobis, (ítem) | Parte de Cobis que realiza la conciliación              | Conciliación | Sistema     |
 | ERP Cobis, (ítem) | Parte de Cobis que registra la solicitud                | Solicitud    | Operador    |
 | ERP Cobis, (ítem) | Parte de Cobis que recibe la respuesta de la aprobación | Aprobación   | Sistema     |
 
-Table: Tabla de asignación del flujo 01, Aprobación de Cesantías FNA.
+Table: Tabla de asignación del flujo 01, Aprobación de Cesantías FNA. {#tbl:example-id}
 
 <br>
 
