@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-05" />
   <meta name="citation_publication_date" content="2023-06-05" />
   <meta property="article:published_time" content="2023-06-05" />
-  <meta name="dc.modified" content="2023-06-05T02:25:15+00:00" />
-  <meta property="article:modified_time" content="2023-06-05T02:25:15+00:00" />
+  <meta name="dc.modified" content="2023-06-05T02:46:34+00:00" />
+  <meta property="article:modified_time" content="2023-06-05T02:46:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/069fe53806827f5b924df027576ef5068cac1055/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/069fe53806827f5b924df027576ef5068cac1055/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/069fe53806827f5b924df027576ef5068cac1055/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/a1bfd6e0826e5e691154db6c7402b8c1ab0c4889/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a1bfd6e0826e5e691154db6c7402b8c1ab0c4889/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/a1bfd6e0826e5e691154db6c7402b8c1ab0c4889/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/069fe53806827f5b924df027576ef5068cac1055/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/a1bfd6e0826e5e691154db6c7402b8c1ab0c4889/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@069fe53](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@a1bfd6e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 5, 2023.
 </em></small>
 
-|    **Versión** del producto 1.069fe53 del 05 Jun 2023
+|    **Versión** del producto 1.a1bfd6e del 05 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.069fe53 del 05 Jun 2023                                       |
+| Versión        | 1.a1bfd6e del 05 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    05 Jun 2023
 >
->    **Versión** 1.069fe53
+>    **Versión** 1.a1bfd6e
 
 <br>
 
@@ -193,12 +193,22 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 *** 
 
 
+---
+title: Vista de Contexto
+geometry:
+  - top=1in
+  - bottom=1in
+fignos-cleveref: True
+fignos-plus-name: Fig.
+fignos-caption-name: Imagen
+...
+
 | Tema           | Vista de Contexto: **Elementos de la Arquitectura Impactados por el Proyecto** |
 |----------------|--------------------------------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.069fe53 del 05 Jun 2023                                               |
+| Version        | 1.a1bfd6e del 05 Jun 2023                                               |
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -209,13 +219,16 @@ La vista de contexto o del segmento de empresa presenta un corte de la arquitect
 
 La vista de segmento a continuación escoge las partes de la arquitectura del FNA que son sujeto del alcance del PRY01, Gobierno SOA del FNA.
 
-![](images/segmentoFNAfaseII.jpg) 
+![Elementos de la arquitectura del FNA, la empresa, involucrados e impactados por el proyecto actual. Muestra además la relación indirecta con otras partes de la empresa, externas a la vista de contexto.](images/segmentoFNAfaseII.jpg)
 
 [Imagen 1.]() Elementos de la arquitectura del FNA, la empresa, involucrados e impactados por el proyecto actual. Muestra además la relación indirecta con otras partes de la empresa, externas a la vista de contexto.
 
 _Fuente: Elaboración propia._
 
 <br>
+
+![Elementos de la arquitectura del FNA, la empresa, involucrados e impactados por el proyecto actual. Muestra además la relación indirecta con otras partes de la empresa, externas a la vista de contexto.](images/segmentoFNAfaseII.jpg)
+
 
 Esta vista le informa al FNA tres objetivos importates. Primero, que el ejercicio actual, de gobierno SOA, aunque sea de caracter empresarial está condicionada por las restricciones del proyecto presente, y no debe por esto mismo abarcar la completitud de la empresa FNA, si no, únicamente las partes seleccionados como relevantes (ver [Justificación Segmento Empresa FNA](URL.com), más adelante). Por esta razón, el segmento presentado en la imagen arriba hace foco en las dichas capacidades del FNA, en esos procesos, y en tales servicios que son relevantes según las restricciones de ejecución y resultados esperados de este proyecto. 
 
@@ -274,11 +287,9 @@ Estos elementos que se relacionan a continuación:
 * Políticas
 * Cultura y Ética
 * Infraestructura
-* Elementos de Información
-
+* Elementos de Información\ 
 
 <br>
-
 
 ### OBJ10. Desarrollo de Arquitecturas FNA
 Dentro del dominio motivacional; una de las metas claves de la vista de segmento corresponde al desarrollo de arquitecturas, como elementos rectores de gobierno de los procesos: _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_.
@@ -301,7 +312,7 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Version        | 1.069fe53 del 05 Jun 2023                                                                                                                                                  |
+| Version        | 1.a1bfd6e del 05 Jun 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)\ <br>[Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -346,7 +357,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.069fe53 del 05 Jun 2023                                      |
+| Version        | 1.a1bfd6e del 05 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
