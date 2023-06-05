@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-05" />
   <meta name="citation_publication_date" content="2023-06-05" />
   <meta property="article:published_time" content="2023-06-05" />
-  <meta name="dc.modified" content="2023-06-05T02:04:09+00:00" />
-  <meta property="article:modified_time" content="2023-06-05T02:04:09+00:00" />
+  <meta name="dc.modified" content="2023-06-05T02:15:16+00:00" />
+  <meta property="article:modified_time" content="2023-06-05T02:15:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/0bdf3ae817f490ca1d5ff323302dd2a2182bcf42/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0bdf3ae817f490ca1d5ff323302dd2a2182bcf42/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0bdf3ae817f490ca1d5ff323302dd2a2182bcf42/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/e2fc69623f32b1941f486c3bc6f458a9e67d7b8c/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e2fc69623f32b1941f486c3bc6f458a9e67d7b8c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e2fc69623f32b1941f486c3bc6f458a9e67d7b8c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/0bdf3ae817f490ca1d5ff323302dd2a2182bcf42/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/e2fc69623f32b1941f486c3bc6f458a9e67d7b8c/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@0bdf3ae](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@e2fc696](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 5, 2023.
 </em></small>
 
-|    **Versión** del producto 1.0bdf3ae del 05 Jun 2023
+|    **Versión** del producto 1.e2fc696 del 05 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.0bdf3ae del 05 Jun 2023                                       |
+| Versión        | 1.e2fc696 del 05 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    05 Jun 2023
 >
->    **Versión** 1.0bdf3ae
+>    **Versión** 1.e2fc696
 
 <br>
 
@@ -198,7 +198,7 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.0bdf3ae del 05 Jun 2023                                               |
+| Version        | 1.e2fc696 del 05 Jun 2023                                               |
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -301,7 +301,7 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Version        | 1.0bdf3ae del 05 Jun 2023                                                                                                                                                  |
+| Version        | 1.e2fc696 del 05 Jun 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)\ <br>[Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -346,7 +346,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.0bdf3ae del 05 Jun 2023                                      |
+| Version        | 1.e2fc696 del 05 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -523,79 +523,6 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 
 
 
->    E-Service. Fase II
-
->    PRY01 Gobierno SOA. Contenido de los Productos Contractuales
-
->    Contrato 1812020
-
->    FNA, Stefanini
-
->    05 Jun 2023
->
->    **Versión** 1.0bdf3ae
-
-<br>
-
-# Producto 2: PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
-Políticas y procedimiento, paquetes de trabajo, identificación de personas, roles y herramientas a desplegar a cargo de la oficina de arquitectura del FNA por concepto de la instauración del gobierno.
-
-**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
-
-<br>
-
-## Justificación
-El resultados del análisis de riesgos técnicos realizado en la Fase I de la consultoría E-Service, causados en parte por los retos de complejidad y agilidad que enfrenta el FNA, los cuales configuran una red de aplicaciones y servicios que aumenta el impacto, el esfuerzo y la incertidumbre de los cambios en las arquitecturas del Fondo, obliga a crear la oficina de arquitectua del FNA y a desplegar las mejoras en los flujos críticos de trabajo a cargo esta.
-
-## Contenidos
-1. Modelo de gobierno SOA del FNA: actores, información y procedimientos
-1. Flujo de trabajo de oficina de arquitectura del FNA
-1. Matriz de responsabilidades oficina de arquitectura
-1. Procedimientos base del modelo de gobierno / oficina de arquitectura
-1. Anexos. Referencia documental del Gobierno SOA del FNA
-
-<br>
-
-## Criterios de Aceptación
-* Entendimiento funcional y operativa de la oficina de arquitectura FNA
-* Matriz de roles y procedimientos de la oficina de arquitetura FNA
-
-<br>
-
-*** 
-
-
-# Elementos de Gobierno
-El gobierno SOA del FNA, objeto de este proyecto, tiene impacto sobre partes e ítems seleccionadas de la arquitectura de software y de servicios del FNA, respectivamente (ver vista de contextual, segmento de la empresa). El impacto de este gobierno se extiende a actores principales, interesados, usuarios y entidades relacionados con aquellas partes de la arquitectura del FNA.
-
-
-## Objetivo del Gobierno SOA del FNA
-El FNN ha establecido como pilar tecnológico el Gobierno SOA tal que permita la continuidad de servicio, identificar las amenazas y riesgos que pueden impactar el desarrollo y la gestión de las arquitecturas de software del Fondo; tarea base para la generación de planes enfocados a la alienación y puesta marcha de futuras soluciones y mejoras de las actuales.
-
-
-## Análisis de Impacto en las arquitecturas (AIA) del FNA
-El análisis de impacto en el negocio BIA (Business Impact Analisys) permite la evaluación de cada componente, para determinar cuáles de ellos son críticos para la continuidad del servicio y es la base para la creación del Plan de Continuidad. 
-
-Todas las etapas asociadas a este análisis se han documentado en la Matriz de Análisis BIA. A continuación, los resultados claves para el plan de continuidad del servicio.
-
-Los pasos para el análisis BIA son: 
- 
-Identificación de los componentes (CCF).
-Identificación del calendario crítico para la operación de cada componente (picos de operación y épocas en las que su funcionamiento es indispensable).
-Identificación de las dependencias e interacciones críticas para cada componente.
-Análisis del impacto Financiero, Reputacional, Legal o al Usuario de la ausencia del componente en la línea de tiempo.
-Tiempo Objetivo de Recuperación (RTO) para cada componente.
-Identificación de los recursos mínimos para operar en contingencia.
-Determinación del Punto Objetivo de Recuperación (RPO)
- 
-### Flujos Críticos de Trabajo
-
-### Gestión del Riesgo Técnico
-
-### Definición de Estrategias de Contingencia
-Las estrategias de contingencia se establecen para cada riesgo crítico analizado, contemplando para ello las redundancias existentes y los requisitos de seguridad que deben mantenerse en observación durante la materialización del riesgo y la recuperación a la normalidad.
-
-
 ## CCF
 
 
@@ -612,10 +539,10 @@ _Guía: En qué medio, dispositivo, o soporte queda almacenada la petición (cor
 
 ### Arquitectura
 _Guía: ¿qué pasa después de que el arquitecto, ingeniero, o receptor recibe la petición. Si distribuye, o hace una propuesta, análisis, reunión, etc._
-- paso 1
-- 2
-- 3
-- 4
+1. paso 1
+1. paso 2
+1. 
+1. 
 
 ### Valor
 _Guía: cuál es el valor que este flujo genera para el FNA._
