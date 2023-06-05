@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-05" />
   <meta name="citation_publication_date" content="2023-06-05" />
   <meta property="article:published_time" content="2023-06-05" />
-  <meta name="dc.modified" content="2023-06-05T11:18:44+00:00" />
-  <meta property="article:modified_time" content="2023-06-05T11:18:44+00:00" />
+  <meta name="dc.modified" content="2023-06-05T12:11:18+00:00" />
+  <meta property="article:modified_time" content="2023-06-05T12:11:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/1143c8510af0a3f6d401e8e93c40bb67e45ddb6b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/1143c8510af0a3f6d401e8e93c40bb67e45ddb6b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/1143c8510af0a3f6d401e8e93c40bb67e45ddb6b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/5b80fb6aea7432da51f55ec3b831108420f09dfb/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/5b80fb6aea7432da51f55ec3b831108420f09dfb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/5b80fb6aea7432da51f55ec3b831108420f09dfb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/1143c8510af0a3f6d401e8e93c40bb67e45ddb6b/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/5b80fb6aea7432da51f55ec3b831108420f09dfb/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@1143c85](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@5b80fb6](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 5, 2023.
 </em></small>
 
-|    **Versión** del producto 1.1143c85 del 05 Jun 2023
+|    **Versión** del producto 1.5b80fb6 del 05 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.1143c85 del 05 Jun 2023                                       |
+| Versión        | 1.5b80fb6 del 05 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    05 Jun 2023
 >
->    **Versión** 1.1143c85
+>    **Versión** 1.5b80fb6
 
 <br>
 
@@ -185,12 +185,11 @@ Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01
 
 ## Criterios de Aceptación
 
-* Lista de los ítems de los flujos críticos de trabajo sujetos al gobierno SOA
-* Vista de segmento de la empresa del proyecto 1 (PRY01), Gobierno SOA FNA
+* Lista de los ítems de arquitectura y flujos críticos de trabajo sujetos al gobierno SOA
+* Descripción de los ítems del segmento de la empresa del proyecto 1 (PRY01), gobierno SOA FNA
 
 <br>
 
-*** 
 
 
 ---
@@ -208,7 +207,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.1143c85 del 05 Jun 2023                                               |
+| Version        | 1.5b80fb6 del 05 Jun 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); 
                    [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
@@ -318,7 +317,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Version        | 1.1143c85 del 05 Jun 2023                                                                                                                                                  |
+| Version        | 1.5b80fb6 del 05 Jun 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com), [Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -328,7 +327,7 @@ El resultado de los diagnósticos de E-Service, Fase I, específicamente de la e
 
 [^1]: OSIMM, Realizado. El nivel 2 de madurez de OSIMM, _Realizado_, implica además que la empresa es reactiva, información en silos, y procedimientos ad hocs contrarios a procedimientos sistemáticos.
 
-Partiendo de este resultado, se hace necesario impactar los ítems de la empresa FNA relacionados con las causas indicadas en el diagnóstico de madurez del Fondo, en pro del gobieno SOA, objeto de este proyecto, y en consecuencia, impactar también las tareas de mejorar la calidad de las soluciones de software que están detrás y que soportan a los servicios SOA con los que la entidad se relaciona con el cliente final, y que a su vez van en cumplimiento, tanto del negocio (vicepresidencias de Crédito y vicepresidencia de Operaciones), como del marco normativo y evolución tecnológica que establece la _Política de Gobierno Digital_ del MinTIC, Colombia. Por este motivo, las actividades asociadas con los procesos _(PROC4). Diseño de servicios y soluciones FNA_, y _(PROC5). Verificación y Calidad de Implementación_, constituyen elementos que habilitan en el FNA la implementación del gobierno SOA, la vigilancia de la calidad de los servicios misionales del FNA y la generación de valor.
+Partiendo de este resultado, se hace necesario impactar los ítems de la empresa FNA relacionados con las causas indicadas en el diagnóstico de madurez del Fondo, en pro del gobieno SOA, objeto de este proyecto, y en consecuencia, impactar también las tareas de mejorar la calidad de las soluciones de software que están detrás y que soportan a los servicios SOA con los que la entidad se relaciona con el cliente beneficiario del Fondo, y que a su vez van en cumplimiento, tanto del negocio (vicepresidencias de Crédito y vicepresidencia de Operaciones), como del marco normativo y evolución tecnológica que establece la _Política de Gobierno Digital_ del MinTIC, Colombia. Por este motivo, las actividades asociadas con los procesos _(PROC4). Diseño de servicios y soluciones FNA_, y _(PROC5). Verificación y Calidad de Implementación_, constituyen elementos que habilitan en el FNA la implementación del gobierno SOA, la vigilancia de la calidad de los servicios misionales del FNA y la generación de valor.
 
 ![](images/madurezInfo.png)
 
@@ -340,11 +339,11 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 
 Al igual que los procesos PROC4 y PROC5, arriba mencionados, otros elementos involucrados en el diseño del gobierno SOA del FNA son requerdidos por el proyecto. Estos otros elementos, y sus artefactos de tecnología directamente relacionados se encuentran contenidos en la vista de segmento de la empresa FNA (ver _Vista de Contexto: Elementos de la Arquitectura Impactados por el Proyecto_).
 
-Los elementos de la vista de segmento, que como ítems impactados por el gobierno SOA, objeto de este proyecto, ameritan ser resaltados son las capacidades de negocio del FNA: Gestión de Tecnología para Negocio, y Gestión de Productos y Funcionalidades (ver imagen abajo), son de importancia por su directa relación con los procesos PROC4 y PROC5, incluidos con anterioridad en el segmento de la empresa a trabajar, y porque además, estas unen a los procesos con los servicios más relevantes para esta etapa del diseño del gobierno del FNA. La imagen siguiente demuestra esta relación entre los procesos y los servicios SOA del FNA relacionadas con las capacidades que el gobierno FNA busca impactar.
+Los elementos de la vista de segmento reunidos por el gobierno SOA, objeto de este proyecto, que ameritan ser resaltados son las capacidades de negocio del FNA: Gestión de Tecnología para Negocio, y Gestión de Productos y Funcionalidades (ver imagen abajo), son de importancia por su directa relación con los procesos PROC4 y PROC5, incluidos con anterioridad en el segmento de la empresa a trabajar, y porque además, estas unen a los procesos con los servicios más relevantes para esta etapa del diseño del gobierno del FNA. La imagen siguiente demuestra esta relación entre los procesos y los servicios SOA del FNA relacionadas con las capacidades que el gobierno FNA busca impactar.
 
 ![Capacidades de negocio FNA que el gobierno SOA del FNA, objeto de este proyecto, busca impactar.](images/vistacapacidadesfna.jpg){#fig: width=lin}
 
-_Fuente: Diagnóstico SOA. E-Service (2022)_
+_Fuente: Diagnóstico SOA. E-Service (2022)._
 
 <br>
 
@@ -358,7 +357,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.1143c85 del 05 Jun 2023                                      |
+| Version        | 1.5b80fb6 del 05 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -414,10 +413,11 @@ El consumidor financiero del FNA, se acerca a los puntos de atención para retir
 Los registros de biometria son entregados por el operador biometrico a traves de correo electronico al usuario lider del area 
 
 ### Arquitectura
-1. cobis envia un ID al operador biometrico 
-1. el operador biometrico responde el ID 
+1. COBIS envia un ID al operador biometrico 
+1. El operador biometrico responde el ID 
 1. El operador levanta el servicio 
-1. El aplicativo core envía la petición de biometria - el operador biometrico responde con un hit o no (hit: la persona es quien dice ser)
+1. COBIS envía la petición de biometria 
+1. El operador biometrico responde con un hit o no (hit: la persona es quien dice ser)
 
 **Notas**: excepcion de los casos de uso, exhaustividad de las pruebas, la confiabilidad de las pruebas, Malla de calidad de las pruebas, fortalecimiento de diseño, categoria: Alta 
 caso de uso: excepciones.
