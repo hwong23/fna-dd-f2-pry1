@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-05" />
   <meta name="citation_publication_date" content="2023-06-05" />
   <meta property="article:published_time" content="2023-06-05" />
-  <meta name="dc.modified" content="2023-06-05T10:23:36+00:00" />
-  <meta property="article:modified_time" content="2023-06-05T10:23:36+00:00" />
+  <meta name="dc.modified" content="2023-06-05T10:28:46+00:00" />
+  <meta property="article:modified_time" content="2023-06-05T10:28:46+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/e3d13bd7614da1c4b36ddfd1b8d78ad99f588baf/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e3d13bd7614da1c4b36ddfd1b8d78ad99f588baf/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e3d13bd7614da1c4b36ddfd1b8d78ad99f588baf/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/47f824ca3003be6d71f59b4b4a5bb2bd2f9d86f3/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/47f824ca3003be6d71f59b4b4a5bb2bd2f9d86f3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/47f824ca3003be6d71f59b4b4a5bb2bd2f9d86f3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/e3d13bd7614da1c4b36ddfd1b8d78ad99f588baf/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/47f824ca3003be6d71f59b4b4a5bb2bd2f9d86f3/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@e3d13bd](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@47f824c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 5, 2023.
 </em></small>
 
-|    **Versión** del producto 1.e3d13bd del 05 Jun 2023
+|    **Versión** del producto 1.47f824c del 05 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.e3d13bd del 05 Jun 2023                                       |
+| Versión        | 1.47f824c del 05 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    05 Jun 2023
 >
->    **Versión** 1.e3d13bd
+>    **Versión** 1.47f824c
 
 <br>
 
@@ -208,7 +208,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.e3d13bd del 05 Jun 2023                                               |
+| Version        | 1.47f824c del 05 Jun 2023                                               |
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)\ <br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -312,7 +312,7 @@ Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de 
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Version        | 1.e3d13bd del 05 Jun 2023                                                                                                                                                  |
+| Version        | 1.47f824c del 05 Jun 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)\ <br>[Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -357,13 +357,15 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.e3d13bd del 05 Jun 2023                                      |
+| Version        | 1.47f824c del 05 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
 
 # Flujos Críticos Susceptibles de Gobierno FNA
-Los flujos críticos proporcionan información dos tipos de información valiosa: la manera en que funcionan las cosas dentro del FNA, y qué las causas y debilidades de estas. 
+Los flujos críticos proporcionan información dos tipos de información valiosa: la manera en que funcionan las cosas dentro del FNA, y qué las causas y debilidades de estas.
+
+<br>
 
 ## Plantilla de Realización del Flujo Crítico
 Para facilitar la recolección de los flujos críticos, presentamos la siguiente plantilla personalizada para el FNA.
@@ -571,60 +573,12 @@ _Guía: qué es necesario realizar al flujo para que asegurar que el cliente obj
 <br>
 
 
-## CCF
-_Guía: mantener el nivel de detalle sencillo, los menos cantidad de pasos; incluya únicamente lo que permita entender el flujo en una sola página de lectura._
-
-<br>
-
-| CCF                |     |
-|--------------------|-----|
-| Cliente destino:   | _Guía: Fondo Nacional del Ahorro 
-| Producto/Servicio: | _Guía: Biometria 
-
-### Atención
-El consumidor financiero del FNA, se acerca a los puntos de atención para retiro de cesantias y/o AVC dentro del proceso se le capturan las huellas por dónde llega o inicia el flujo. 
-### Petición
-_Guía: Los registros de biometria son entregados por el operador biometrico a traves de correo electronico al usuario lider del area 
-
-### Arquitectura
-_Guía: ¿qué pasa después de que el arquitecto, ingeniero, o receptor recibe la petición.
- al presentar fallas del servicio, se realizar mesa técnica para verificar el estado de los componentes de arquitectura, aplicación , redes, Etc 
-- paso 1 cobis envia un ID al operador biometrico 
-- paso 2 el operador biometrico responde el ID 
-- paso 3 El operador levanta el servicio 
-- paso 4 El aplicativo core envía la petición de biometria 
-- el operador biometrico responde con un hit o no hit (hit que quiere decir que la persona es quien dice ser, no hit no es quien dice ser)
-
-
-excepcion  de los casos de uso
-exhaustividad de las pruebas  
-la confiabilidad de las pruebas
-Malla de calidad de las pruebas
- 
-
-fortalecimiento de diseño 
-categoria: Alta 
-caso de uso: excepciones 
-
-
-
-
-### Valor
-
-El valor es alto, debido a que afecta al Consumidor financiero en el retiro de las cesantias 
-
-
-### Seguimiento
-El seguimiento se realiza diariamente con la conciliacion aplicada por el area usuaria 
-
-### Entrega
-el resultado del trabajo será, la implementacion de herramientas de gobierno que permitan el fortalecimiento en el diseño para la aplicacion 
-
-### Repetición
-_Guía: Implementar un buen diseño en la aplicacion y malla de calidad en la pruebas 
-
 ## Referencias {.page_break_before}
 
+***
+
 <!-- Explicitly insert bibliography here -->
-<div id="refs">E-Service. Fase I. (2022).</div>
+<div id="refs">E-Service. Situación SOA Actual del FNA. Etapa I. (2022).</div>
+<div id="refs">E-Service. Arquitectura de Referencia del FNA. Etapa II. (2023).</div>
+<div id="refs">E-Service. Hoja de Ruta e Iniciativas. Fase III. (2023).</div>
 
