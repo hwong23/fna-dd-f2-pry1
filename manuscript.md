@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-06" />
   <meta name="citation_publication_date" content="2023-06-06" />
   <meta property="article:published_time" content="2023-06-06" />
-  <meta name="dc.modified" content="2023-06-06T18:22:36+00:00" />
-  <meta property="article:modified_time" content="2023-06-06T18:22:36+00:00" />
+  <meta name="dc.modified" content="2023-06-06T19:08:58+00:00" />
+  <meta property="article:modified_time" content="2023-06-06T19:08:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/e94d686d9d4c6951791f9cae372179c247249600/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e94d686d9d4c6951791f9cae372179c247249600/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/e94d686d9d4c6951791f9cae372179c247249600/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/cda7b1f655099b9307e29e2113fd5653a91b8c31/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/cda7b1f655099b9307e29e2113fd5653a91b8c31/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/cda7b1f655099b9307e29e2113fd5653a91b8c31/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/e94d686d9d4c6951791f9cae372179c247249600/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/cda7b1f655099b9307e29e2113fd5653a91b8c31/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@e94d686](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@cda7b1f](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 6, 2023.
 </em></small>
 
-|    **Versión** del producto 1.e94d686 del 06 Jun 2023
+|    **Versión** del producto 1.cda7b1f del 06 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.e94d686 del 06 Jun 2023                                       |
+| Versión        | 1.cda7b1f del 06 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    06 Jun 2023
 >
->    **Versión** 1.e94d686
+>    **Versión** 1.cda7b1f
 
 <br>
 
@@ -207,7 +207,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.e94d686 del 06 Jun 2023                                               |
+| Version        | 1.cda7b1f del 06 Jun 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); 
                    [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
@@ -317,7 +317,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Version        | 1.e94d686 del 06 Jun 2023                                                                                                                                                  |
+| Version        | 1.cda7b1f del 06 Jun 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com), [Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -357,13 +357,13 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.e94d686 del 06 Jun 2023                                      |
+| Version        | 1.cda7b1f del 06 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
 
 # Flujos Críticos Susceptibles de Gobierno FNA
-Los flujos críticos proporcionan información dos tipos de información valiosa: la manera en que funcionan las cosas dentro del FNA, y qué las causas y debilidades de estas.
+Los flujos críticos proporcionan dos tipos de información valiosa: la manera en que funcionan las cosas dentro del FNA, y qué las causas y debilidades de estas. Además, de esta información, sirven de insumo para la deducción (método deductivo) de ex ante de fómulas y prácticas de gobierno SOA del FNA, objeto de este proyecto.
 
 <br>
 
@@ -464,9 +464,18 @@ tablenos-caption-name: Tabla
 ...
 
 ## Análisis CCF01 Aprobación de Cesantías (biometría)
-Listamos a continuación las características del flujo de aprobación de cesantías del FNA encontradas desde la perspectiva de gobierno SOA y de las arquitecturas del FNA.
+Listamos a continuación las características del flujo CF01, Aprobación de cesantías del FNA encontradas desde la perspectiva de gobierno SOA y de las arquitecturas del FNA.
 
-Características del flujo de aprobación de cesantía del FNA.
+Características insumo de gobierno del flujo de aprobación de cesantía del FNA.
+
+1. Débil (o inexistente[^*]) procedimiento de evaluación de inversión​
+1. Débil (o inexistente) formalidad para el cálculo de eficacia un inversión​ TI, proveedores
+1. Normnalizar registro de resultados de las entregas de proveedores​ (confiabilidad)
+1. Asignación de responsables de gestión de las inversiones de TI
+
+[^*]: Al momento de desarrollar este flujo en el FNA no fue posible contar con información al respecto. De todas maneras, realizanro inferencias, es posible determinar que a partir de la importancia que las inversiones de TI y proveedores representan para el Fondo, esta se está realizando de alguna manera.
+
+<br>
 
 ### Debilidad en la Completitud de los CU
 Denota debilidad en la gestión de los casos de uso (CU)del FNA. En particular, con la exhaustividad de lo(s) caso(s). El flujo tal como está, al momento de esta identificación, da razón de la falta de inclusión de variantes que pueda tomar la aprobación. Es decir, el CU no contenpla la cantidad de escenarios, caminos alternos, y excepciones que le den al caso el nivel de exhaustividad que la complejidad de la aprobación de las cesantía demanda..
@@ -538,10 +547,24 @@ geometry:
 fignos-cleveref: True
 fignos-plus-name: Fig.
 fignos-caption-name: Imagen
+tablenos-caption-name: Tabla
 ...
 
 ## Análisis CCF02 Inversión TI
-**Notas**: Procedimiento evaluación de inversión, Cálculo eficacia de inversión, Confiabilidad de las entregas de proveedores, Responsables gestión de la inversión.
+Las características generales, insumo de gobierno, inducidas por este el flujo CF02, Inversión de TI son las siguientes. 
+
+Características insumo de gobierno del flujo de aprobación de cesantía del FNA.
+
+1. Procedimiento evaluación de inversión
+1. Cálculo eficacia de inversión, 
+1. Confiabilidad de las entregas de proveedores
+1. Responsables gestión de la inversión
+
+<br>
+
+### Responsabilidades y Procedimientos (actividades)
+
+### Asignación de Arquitectura
 
 
 ***
