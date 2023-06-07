@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-06'
+date-meta: '2023-06-07'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
   <meta property="og:title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
   <meta property="twitter:title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
-  <meta name="dc.date" content="2023-06-06" />
-  <meta name="citation_publication_date" content="2023-06-06" />
-  <meta property="article:published_time" content="2023-06-06" />
-  <meta name="dc.modified" content="2023-06-06T19:47:10+00:00" />
-  <meta property="article:modified_time" content="2023-06-06T19:47:10+00:00" />
+  <meta name="dc.date" content="2023-06-07" />
+  <meta name="citation_publication_date" content="2023-06-07" />
+  <meta property="article:published_time" content="2023-06-07" />
+  <meta name="dc.modified" content="2023-06-07T18:59:28+00:00" />
+  <meta property="article:modified_time" content="2023-06-07T18:59:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/788899dd96c6b7ae2f5527f56350b2a879b4b837/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/788899dd96c6b7ae2f5527f56350b2a879b4b837/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/788899dd96c6b7ae2f5527f56350b2a879b4b837/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/14bdd27c7fa8ef51274e363f35afe40bf10a7202/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/14bdd27c7fa8ef51274e363f35afe40bf10a7202/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/14bdd27c7fa8ef51274e363f35afe40bf10a7202/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,13 +70,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/788899dd96c6b7ae2f5527f56350b2a879b4b837/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/14bdd27c7fa8ef51274e363f35afe40bf10a7202/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@788899d](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del June 6, 2023.
+[Sharepoint STEF@14bdd27](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del June 7, 2023.
 </em></small>
 
-|    **Versión** del producto 1.788899d del 06 Jun 2023
+|    **Versión** del producto 1.14bdd27 del 07 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.788899d del 06 Jun 2023                                       |
+| Versión        | 1.14bdd27 del 07 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -160,9 +160,9 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    FNA, Stefanini
 
->    06 Jun 2023
+>    07 Jun 2023
 >
->    **Versión** 1.788899d
+>    **Versión** 1.14bdd27
 
 <br>
 
@@ -207,7 +207,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.788899d del 06 Jun 2023                                               |
+| Version        | 1.14bdd27 del 07 Jun 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -316,7 +316,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Version        | 1.788899d del 06 Jun 2023                                                                                                                                                  |
+| Version        | 1.14bdd27 del 07 Jun 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com), [Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -356,7 +356,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Version        | 1.788899d del 06 Jun 2023                                      |
+| Version        | 1.14bdd27 del 07 Jun 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -478,8 +478,6 @@ Características insumo de gobierno del flujo de aprobación de cesantía del FN
 ### Debilidad en la Completitud de los CU
 Denota debilidad en la gestión de los casos de uso (CU)del FNA. En particular, con la exhaustividad de lo(s) caso(s). El flujo tal como está, al momento de esta identificación, da razón de la falta de inclusión de variantes que pueda tomar la aprobación. Es decir, el CU no contenpla la cantidad de escenarios, caminos alternos, y excepciones que le den al caso el nivel de exhaustividad que la complejidad de la aprobación de las cesantía demanda..
 
-Sistemas distribuidos y QA, Fortalecimiento de ambientes QA, Categorización complejidad, Correspondencia complejidad - diseño.
-
 ### Responsabilidades y Procedimientos (actividades)
 Existen tres responsabilidades claras que participan y sostienen a este flujo. Primero, la del operador del FNA que convalida los coicidencias de petición y la ocurrencia (autenticación) del beneficiario solicitante. Segundo, la del servicio de autenticación biométrico de la huella del beneficiario, y la relación de este con la Cancillería. La del ERP COBIS es otra. Este debe registrar las transacciones de ambos extremos, del solictante y la del autenticador, para luego failitarle al primero la conciliacieon de las transacciones solicitud-aprobación.
 
@@ -570,14 +568,17 @@ El proveedor tecnológico, soporte o fábrica externo al FNA es el responsable d
 Otra responsabilidad avistada dentro de este flujo es la del gestor del FNA de la inversión de TI. Dependiendo del tipo de inversión (soporte, adquisición o fábrca) es un departamento (función de negocio distinto). Este responsable existe de forma nominal (no siempre formal), y no siempre posa como responsable, si no tan solo como observador de la inversión.
 
 ### Asignación de Arquitectura
+Igual que en caso del flujo CCF01, en esta tabla hacemos las asignaciones de las actividaes/respomsabilidades del flujo de inversión de TI con las partes de la arquitectura del FNA relevantes al gobierno SOA.
 
 | Arquitectura | Descripción                                                                                                                     | Actividad     | Responsable  |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------|---------------|--------------|
-| Arq. Ref 1.0 | El proveedor afecta a la arquitectura del FNA                                                                                   | Actualización | Proveedor    |
-| Arq. Ref 1.0 | El grupo de soporte toma decisiones sobre las modificaciones a las aplicaciones y (por ende) a la arquitectura del FNA          | Soporte       | Ing. Soporte |
-| Arq. Ref 1.0 | Las fábricas de desarrollo (externas al FNA) toma decisiones sobre las modificaciones a las aplicaciones y arquitectura del FNA | Desarrollo    | Sistema      |
+| Repositorio Arq. FNA, Arq. Ref 1.0 | El proveedor afecta a la arquitectura del FNA                                                                                   | Actualización | Proveedor    |
+| Repositorio Arq. FNA, Arq. Ref 1.0 | El grupo de soporte toma decisiones sobre las modificaciones a las aplicaciones y (por ende) a la arquitectura del FNA          | Soporte       | Ing. Soporte |
+| Repositorio Arq. FNA, Arq. Ref 1.0 | Las fábricas de desarrollo (externas al FNA) toma decisiones sobre las modificaciones a las aplicaciones y arquitectura del FNA | Desarrollo    | Sistema      |
 
 Table: Tabla de asignación del flujo 01, Aprobación de Cesantías FNA. {#tbl:}
+
+Es importante destacar que en esta versión 1.0 de la arquitectura de referencia del FNA el repositorio de arquitectura todavía son carpetas de un sistema de archivos. Aún no son los modelos y vistas de arquitectura (distintos a documentos docx, pptx, xlsx),y otros artefactos activos, algunos de ellos llegan a ser ejecutables.
 
 <b>
 
