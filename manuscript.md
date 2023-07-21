@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-21" />
   <meta name="citation_publication_date" content="2023-07-21" />
   <meta property="article:published_time" content="2023-07-21" />
-  <meta name="dc.modified" content="2023-07-21T17:09:01+00:00" />
-  <meta property="article:modified_time" content="2023-07-21T17:09:01+00:00" />
+  <meta name="dc.modified" content="2023-07-21T17:18:24+00:00" />
+  <meta property="article:modified_time" content="2023-07-21T17:18:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/12ef20acf27e5761bb9dda922d861116ce152c86/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/12ef20acf27e5761bb9dda922d861116ce152c86/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/12ef20acf27e5761bb9dda922d861116ce152c86/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/8025d9d8c865c9f82a3da0b30c87adb40a6a2180/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8025d9d8c865c9f82a3da0b30c87adb40a6a2180/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/8025d9d8c865c9f82a3da0b30c87adb40a6a2180/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,13 +68,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/12ef20acf27e5761bb9dda922d861116ce152c86/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/8025d9d8c865c9f82a3da0b30c87adb40a6a2180/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@12ef20a](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@8025d9d](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 21, 2023.
 </em></small>
 
-|    **Versión** del producto 1.12ef20a del 21 Jul 2023
+|    **Versión** del producto 1.8025d9d del 21 Jul 2023
 
 
 
@@ -140,7 +140,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.12ef20a del 21 Jul 2023                                       |
+| Versión        | 1.8025d9d del 21 Jul 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -160,7 +160,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 > 
 >    21 Jul 2023
 >
->    **Versión** 1.12ef20a
+>    **Versión** 1.8025d9d
 
 <br>
 
@@ -205,7 +205,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | 1.12ef20a del 21 Jul 2023                                               |
+| Versión        | 1.8025d9d del 21 Jul 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -313,7 +313,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Versión        | 1.12ef20a del 21 Jul 2023                                                                                                                                                  |
+| Versión        | 1.8025d9d del 21 Jul 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com), [Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -353,7 +353,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Versión        | 1.12ef20a del 21 Jul 2023                                      |
+| Versión        | 1.8025d9d del 21 Jul 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -407,40 +407,40 @@ Aprobación de cesantías FNA.
 | CCF                |                                |
 |--------------------|--------------------------------|
 | Cliente destino:   | Vicepresidencia de Operaciones |
-| Producto/Servicio: | Biometria                      |
+| Producto/Servicio: | Biometría                      |
 
 <br>
 
 ### Atención
-El consumidor financiero del FNA, se acerca a los puntos de atención para retiro de cesantias y/o AVC dentro del proceso se le capturan las huellas por dónde llega o inicia el flujo. 
+El consumidor financiero del FNA, se acerca a los puntos de atención para retiro de cesantías y/o AVC dentro del proceso se le capturan las huellas por dónde llega o inicia el flujo. 
 
 ### Petición
-Los registros de biometria son entregados por el operador biometrico a traves de correo electronico al usuario lider del area 
+Los registros de biometría son entregados por el operador biométrico a través de correo electrónico al usuario líder del área.
 
 ### Arquitectura
-1. COBIS envia un ID al operador biometrico 
-1. El operador biometrico responde el ID 
+1. COBIS envía un ID al operador biométrico 
+1. El operador biométrico responde el ID 
 1. El operador levanta el servicio 
-1. COBIS envía la petición de biometria 
-1. El operador biometrico responde con un hit o no (hit: la persona es quien dice ser)
+1. COBIS envía la petición de biometría 
+1. El operador biométrico responde con un hit o no (hit: la persona es quien dice ser)
 
 **Notas**: CU, escenarios y excepciones, Sistemas distribuidos y QA, Fortalecimiento de ambientes QA, Categorización complejidad, Correspondencia complejidad - diseño.
 
 ### Valor
-El valor es alto, debido a que afecta al consumidor financiero en el retiro de las cesantias 
+El valor es alto, debido a que afecta al consumidor financiero en el retiro de las cesantías.
 
 ### Seguimiento
 El seguimiento se realiza diariamente con la conciliación aplicada por el área usuaria.
 
 ### Entrega
-El resultado del trabajo es la implementacion de herramientas de gobierno que permitan el fortalecimiento en el diseño para la aplicacion 
+El resultado del trabajo es la implementación de herramientas de gobierno que permitan el fortalecimiento en el diseño para la aplicación. 
 
 ### Repetición
-Implementar un buen diseño en la aplicacion y malla de calidad en la pruebas.
+Implementar un buen diseño en la aplicación y malla de calidad en las pruebas.
 
 ### Anexo. Diagrama del flujo
 
-![Flujo de trabajo crítico, aprobación de censatía con biometría FNA, para el análisis de las fortalezas, debilidades, y otras consideraciones de gobierno SOA del FNA.](images/flujoBiometriafna.jpg){#fig: width=lin}
+![Flujo de trabajo crítico, aprobación de cesantía con biometría FNA, para el análisis de las fortalezas, debilidades, y otras consideraciones de gobierno SOA del FNA.](images/flujoBiometriafna.jpg){#fig: width=lin}
 
 _Fuente: elaboración propia._
 
