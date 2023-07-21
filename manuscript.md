@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-21" />
   <meta name="citation_publication_date" content="2023-07-21" />
   <meta property="article:published_time" content="2023-07-21" />
-  <meta name="dc.modified" content="2023-07-21T21:52:16+00:00" />
-  <meta property="article:modified_time" content="2023-07-21T21:52:16+00:00" />
+  <meta name="dc.modified" content="2023-07-21T21:53:37+00:00" />
+  <meta property="article:modified_time" content="2023-07-21T21:53:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/0c73c99a17a0e3f7c4cfe801cff960213a84f4af/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0c73c99a17a0e3f7c4cfe801cff960213a84f4af/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0c73c99a17a0e3f7c4cfe801cff960213a84f4af/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/d9654311fb0d415c1fcaae1b6a7f98c7f04dc7e2/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/d9654311fb0d415c1fcaae1b6a7f98c7f04dc7e2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/d9654311fb0d415c1fcaae1b6a7f98c7f04dc7e2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,13 +68,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/0c73c99a17a0e3f7c4cfe801cff960213a84f4af/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/d9654311fb0d415c1fcaae1b6a7f98c7f04dc7e2/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@0c73c99](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@d965431](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 21, 2023.
 </em></small>
 
-|    **Versión** del producto 1.0c73c99 del 21 Jul 2023
+|    **Versión** del producto 1.d965431 del 21 Jul 2023
 
 
 
@@ -140,7 +140,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.0c73c99 del 21 Jul 2023                                       |
+| Versión        | 1.d965431 del 21 Jul 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -160,7 +160,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 > 
 >    21 Jul 2023
 >
->    **Versión** 1.0c73c99
+>    **Versión** 1.d965431
 
 <br>
 
@@ -205,7 +205,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | 1.0c73c99 del 21 Jul 2023                                               |
+| Versión        | 1.d965431 del 21 Jul 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -313,7 +313,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Versión        | 1.0c73c99 del 21 Jul 2023                                                                                                                                                  |
+| Versión        | 1.d965431 del 21 Jul 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com), [Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -353,7 +353,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Versión        | 1.0c73c99 del 21 Jul 2023                                      |
+| Versión        | 1.d965431 del 21 Jul 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -552,20 +552,20 @@ Características insumo de gobierno del flujo de aprobación de cesantía del FN
 
 1. Débil (o inexistente[^*]) procedimiento de evaluación de inversión​
 1. Débil (o inexistente) formalidad para el cálculo de eficacia un inversión​ TI, proveedores
-1. Normnalizar registro de resultados de las entregas de proveedores​ (confiabilidad)
+1. Normalizar registro de resultados de las entregas de proveedores​ (confiabilidad)
 1. Asignación de responsables de gestión de las inversiones de TI
 
-[^*]: Al momento de desarrollar este flujo en el FNA no fue posible contar con información al respecto. De todas maneras, realizanro inferencias, es posible determinar que a partir de la importancia que las inversiones de TI y proveedores representan para el Fondo, esta se está realizando de alguna manera.
+[^*]: Al momento de desarrollar este flujo en el FNA no fue posible contar con información al respecto. De todas maneras, realizando inferencias, es posible determinar que a partir de la importancia que las inversiones de TI y proveedores representan para el Fondo, esta se está realizando de alguna manera.
 
 <br>
 
 ### Responsabilidades y Procedimientos (actividades)
-El proveedor tecnológico, soporte o fábrica externo al FNA es el responsable directo de entregar un servicio, sea este infraestructura, cambios, o nuevos desarrollos de software. Documetnado o no, atraviesa un proceso y se somete a unos acuerdos, que en el mejor de los casos deben quedar establecidos como ANS (acuerdos de niveles de servicio). 
+El proveedor tecnológico, soporte o fábrica externo al FNA es el responsable directo de entregar un servicio, sea esta infraestructura, cambios, o nuevos desarrollos de software. Documentado o no, atraviesa un proceso y se somete a unos acuerdos, que en el mejor de los casos deben quedar establecidos como ANS (acuerdos de niveles de servicio). 
 
-Otra responsabilidad avistada dentro de este flujo es la del gestor del FNA de la inversión de TI. Dependiendo del tipo de inversión (soporte, adquisición o fábrca) es un departamento (función de negocio distinto). Este responsable existe de forma nominal (no siempre formal), y no siempre posa como responsable, si no tan solo como observador de la inversión.
+Otra responsabilidad avistada dentro de este flujo es la del gestor del FNA de la inversión de TI. Dependiendo del tipo de inversión (soporte, adquisición o fábrica) es un departamento (función de negocio distinto). Este responsable existe de forma nominal (no siempre formal), y no siempre posa como responsable, si no tan solo como observador de la inversión.
 
 ### Asignación de Arquitectura
-Igual que en caso del flujo CCF01, en esta tabla hacemos las asignaciones de las actividaes/respomsabilidades del flujo de inversión de TI con las partes de la arquitectura del FNA relevantes al gobierno SOA.
+Igual que en caso del flujo CCF01, en esta tabla hacemos las asignaciones de las actividades/responsabilidades del flujo de inversión de TI con las partes de la arquitectura del FNA relevantes al gobierno SOA.
 
 | Arquitectura | Descripción                                                                                                                     | Actividad     | Responsable  |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------|---------------|--------------|
@@ -575,7 +575,7 @@ Igual que en caso del flujo CCF01, en esta tabla hacemos las asignaciones de las
 
 Table: Tabla de asignación del flujo 01, Aprobación de Cesantías FNA. {#tbl:}
 
-Es importante destacar que en esta versión 1.0 de la arquitectura de referencia del FNA el repositorio de arquitectura todavía son carpetas de un sistema de archivos. Aún no son los modelos y vistas de arquitectura (distintos a documentos docx, pptx, xlsx),y otros artefactos activos, algunos de ellos llegan a ser ejecutables.
+Es importante destacar que en esta versión 1.0 de la arquitectura de referencia del FNA el repositorio de arquitectura todavía son carpetas de un sistema de archivos. Aún no son los modelos y vistas de arquitectura (distintos a documentos docx, pptx, xlsx), y otros artefactos activos, algunos de ellos llegan a ser ejecutables.
 
 <b>
 
