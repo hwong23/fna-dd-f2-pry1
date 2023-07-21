@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-21" />
   <meta name="citation_publication_date" content="2023-07-21" />
   <meta property="article:published_time" content="2023-07-21" />
-  <meta name="dc.modified" content="2023-07-21T17:42:48+00:00" />
-  <meta property="article:modified_time" content="2023-07-21T17:42:48+00:00" />
+  <meta name="dc.modified" content="2023-07-21T21:52:16+00:00" />
+  <meta property="article:modified_time" content="2023-07-21T21:52:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/0aaf3afc3ac402ef1f5f4987dcf9ee42f3866bd8/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0aaf3afc3ac402ef1f5f4987dcf9ee42f3866bd8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0aaf3afc3ac402ef1f5f4987dcf9ee42f3866bd8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry1/v/0c73c99a17a0e3f7c4cfe801cff960213a84f4af/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0c73c99a17a0e3f7c4cfe801cff960213a84f4af/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry1/v/0c73c99a17a0e3f7c4cfe801cff960213a84f4af/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,13 +68,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/0aaf3afc3ac402ef1f5f4987dcf9ee42f3866bd8/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-pry1/v/0c73c99a17a0e3f7c4cfe801cff960213a84f4af/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@0aaf3af](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@0c73c99](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 21, 2023.
 </em></small>
 
-|    **Versión** del producto 1.0aaf3af del 21 Jul 2023
+|    **Versión** del producto 1.0c73c99 del 21 Jul 2023
 
 
 
@@ -140,7 +140,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.0aaf3af del 21 Jul 2023                                       |
+| Versión        | 1.0c73c99 del 21 Jul 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -160,7 +160,7 @@ Entrega del producto 1 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 > 
 >    21 Jul 2023
 >
->    **Versión** 1.0aaf3af
+>    **Versión** 1.0c73c99
 
 <br>
 
@@ -205,7 +205,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | 1.0aaf3af del 21 Jul 2023                                               |
+| Versión        | 1.0c73c99 del 21 Jul 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -313,7 +313,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                                                                                         |
 | Autor          |                                                                                                                                                                                   |
 | Fuente         |                                                                                                                                                                                   |
-| Versión        | 1.0aaf3af del 21 Jul 2023                                                                                                                                                  |
+| Versión        | 1.0c73c99 del 21 Jul 2023                                                                                                                                                  |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com), [Resultados y métricas del diagnóstico de madurez SOA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -353,7 +353,7 @@ Todos los elementos de la empresa contenidos en la vista de contexto, o segmento
 | Palabras clave | SOA, Flujos críticos, Procesos, Gobierno                              |
 | Autor          |                                                                       |
 | Fuente         | Elaboración propia                                                    |
-| Versión        | 1.0aaf3af del 21 Jul 2023                                      |
+| Versión        | 1.0c73c99 del 21 Jul 2023                                      |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section) |
 
 <br>
@@ -495,7 +495,7 @@ Table: Tabla de asignación del flujo 01, Aprobación de Cesantías FNA. {#tbl:1
 ## CCF. Flujo Crítico Trabajo: 02. Inversión TI FNA (proveedores)
 Uno de los objetivos del Gobierno SOA es la evaluación de la inversión de TI del FNA. Se incluyen los riesgos técnicos de las inversiones (implementaciones) de TI. 
 
-**Nota**: una forma de evaluar las inversiones de TI es mediante el parámetro de efectividad de la inversiones, entendido como la relación de la utilidad percibida, que puede cuantitativa o no, y los costos y esfuerzos en los que incurrió.
+**Nota**: una forma de evaluar las inversiones de TI es mediante el parámetro de efectividad de las inversiones, entendido como la relación de la utilidad percibida, que puede cuantitativa o no, y los costos y esfuerzos en los que incurrió.
 
 <br>
 
@@ -507,15 +507,15 @@ Uno de los objetivos del Gobierno SOA es la evaluación de la inversión de TI d
 <br>
 
 ### Atención
-Estudios internos o consultorías sirve de justificación para la planeacieon de una posible inversión de TI.
+Estudios internos o consultorías sirve de justificación para la planeación de una posible inversión de TI.
 
 ### Petición
-Diligencia el formato de la necesidad al grupo de contratacion, y radicar la solicitud a contratacion. Registro en SECOP(2) el procesos publico y finalmente queda la minuta del contrato.
+Diligencia el formato de la necesidad al grupo de contratación, y radicar la solicitud a contratación. Registro en SECOP(2) el proceso público y finalmente queda la minuta del contrato.
 
 ### Arquitectura
-1. Implementa la solucion en producción FNA
-1. Entrega la operacion al grupo de soporte para gestion del día a día
-1. Cada fábrica tiene dos grupos: uno de soporte y mantenimiento para gestión de incidencias, y otro para desarollo y nuevas funcionalidades
+1. Implementa la solución en producción FNA
+1. Entrega la operación al grupo de soporte para gestión del día a día
+1. Cada fábrica tiene dos grupos: uno de soporte y mantenimiento para gestión de incidencias, y otro para desarrollo y nuevas funcionalidades
 \ 
 
 **Notas**: Procedimiento evaluación de inversión, Cálculo eficacia de inversión, Confiabilidad de las entregas de proveedores, Responsables gestión de la inversión.
@@ -528,7 +528,7 @@ No determinado. Al momento de la realización de este flujo no encontramos el pr
 No determinado. Al momento de la realización de este flujo no encontramos el procedimiento o instrumento, o persona que calcula del valor retornado de la inversión de TI al FNA.
 
 ### Entrega
-Una vez realizada la implementa de la inversión TI, la solucion en produccion es entregada en operacion al grupo de soporte del FNA.
+Una vez realizada la implementa de la inversión TI, la solución en producción es entregada en operación al grupo de soporte del FNA.
 
 ### Repetición
 El flujo es repetible en virtud de la Ley 80.
